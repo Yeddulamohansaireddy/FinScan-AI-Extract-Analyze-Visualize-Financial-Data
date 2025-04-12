@@ -1,0 +1,4920 @@
+Statement
+SELECT ACCOUNT
+
+Branch Details : Your Details
+
+|ANY BRACH {MR T TESTER
+
+| ANY STREET 11 TEST STREET
+
+| ANY TOWN {TEST TOWN
+
+|
+
+1AN1 TWN (TES 7ER
+
+BRIGHT FORWARD _
+loa Oct 2014 AUTOMATED PAY IN 650274051211-CHB
+i
+CALL REF. NO. 3442, FROM A/C
+22 Oct 2014 DIGITAL BANKING 32222229
+124 Oct 2014 Faster Payment Amazon
+1
+124 Oct 2014 BACS Tejay Trading Co.
+1
+'
+125 Oct 2014 Faster Payment Morrisons Petrol
+1
+\25 Oct 2014 BACS Business Loan
+'
+126 Oct 2014 BACS James White Media
+1
+[27 Oct 2014 Faster Payment ATM High Street
+{01 Nov ‘3 z
+i201 4 BACS Acorn Advertising Studies
+150 Nev Bacs Marriott Hotel
+101 Nov F . .
+1201 4 ‘aster Payment Abellio Scot rail Ltd
+105 Nov CHQ Cheque 0000234
+101 Dec 2014 Int. Bank Interest Paid
+1
+'
+101 Dec 2014 DD OVO Energy
+t
+24 Dec 2014 BACS Various Payment
+1
+'
+121 Dec 2014 BACS HMRC
+121 Dec 2014 DD DVLA
+i
+
+Royal Bank of Scotland Plc. Registered Office, The Mound, Edinburgh EH1 1YZ. Registered in Scotland number SC327000
+
+Balance Received Forward
+
+New Balance
+
+Account Number: 1111111
+Sort Code: 16-10-00
+
+BIC: RBOSGB2L
+
+IBAN: GB11RBOS 1610 0011 1111 11
+
+!
+{Previous Balance
+I
+
+Paid Out
+
+22 Oct 2014 to 21 Dec 2014
+
+MR TEST TESTER
+CURRENT ACCOUNT
+
+£1803.90
+
+£2,684.10
+£2,180.40
+
+190.40 woes]
+
+140.00 16135]
+
+132.30 1473.51
+
+515.22 1341 al
+
+80.00 825.98!
+
+20,000.00 745.98|
+2,461.55 20745.981
+
+100.00 18284.43)
+
+150.00 — 18184.43|
+
+i
+
+177.00 18034.431
+
+H
+
+122.22 17857.43|
+
+1,200.00 17735211
+
+9.33 16535.21
+2470.00 16544.54!
+
+10,526.40 14074.54|
+
+1,000.00 3548.14!
+
+280.00 2548.14
+
+Authorized by the Prudential Regulation Authority and regulated by the Financial Conduct and the Prudential Regulation authority.
+
+TemplateLAB
+
+Account Number: 1111111
+bb 4 RBS Statement Sort Code: 16-10-00
+AR BIC: RBOSGB2L
+
+The Royal Bank of Scotland SELECT ACCOUNT IBAN: GB11RBOS 1610 0011 1111 11
+MR TEST TESTER
+CURRENT ACCOUNT
+Branch Details Period 22 Oct 2014 to 21 Dec 2014
+ANY BRACH MRT TESTER Previous Balance £1803.90
+ANY STREET 1 TEST STREET
+ANY TOWN TEST TOWN Paid Out £2,684.10
+AN1 TWN TES 7ER Paid In £2,180.40
+
+New Balance £300.20
+Date frye Description | Paid in| Paid Out] Balance]
+
+Paid In
+
+BRIGHT FORWARD 1803.90
+22 Oct 2014 AUTOMATED PAY IN 650274051211-CHB 190.40 1803.9
+22 Oct 2014 DIGITALBANKING fi 5osop ony nt FROM 140.00 1613.5
+24 Oct 2014 Faster Payment Amazon 132.30 1473.5
+24 Oct 2014 BACS Tebay Trading Co. 515.22 1341.2
+25 Oct 2014 Faster Payment Morrisons Petrol 80.00 825.98
+25 Oct 2014 BACS Business Loan 20,000.00 745.98
+26 Oct 2014 BACS James White Media 2,461.55 20745.98
+27 Oct 2014 Faster Payment ATM High Street 100.00 18284.43
+01 Nov 2014 BACS Acorn Advertising Studies 150.00 18184.43
+01 Nov 2014 BACS Marriott Hotel 177.00 18034.43
+01 Nov 2014 Faster Payment Abellio Scotrail Ltd 122.22 17857.43
+01 Nov 2014 CHQ Cheque 0000234 1,200.00 17735.21
+01 Dec 2014 Int. Bank Interest Paid 9.33 16535.21
+01 Dec 2014 DD OVO Energy 2470.00 16544.54
+21 Dec 2014 BACS Various Payment 10,526.40 14074.54
+21 Dec 2014 BACS HMRC. 1,000.00 3548.14
+21 Dec 2014 DD DVLA 280.00 2548.14
+
+Balance Received Forward
+
+Royal Bank of Scotland Pic. Registered Office, The Mound, Edinburgh EH1 1YZ. Registered in Scotland number SC327000
+Authorized by the Prudential Regulation Authority and regulated by the Financial Conduct and the Prudential Regulation authority.
+
+Account Statement For Account'8753000100001933
+Account Name :BHOLA RAM MEENA S/O MURARI LAL MEENA
+
+Branch Detats
+
+Penh Nae PUN DISTT-OAUBA
+
+Bam Adorecs SMT SAVITA MEENA
+MAING GARRLAL AO GRAN $
+
+cy GAUBA
+
+ven eon
+
+(FSC Cote PUNBOSTSSO0
+
+Customer Details
+
+Cotoat Nee BPECLA RAM MEENA 1D MURA LAL MEENA
+(Contre Actes MICPLIMPENA PATTI SIKRAL
+
+TEM SIKRA OG TT DASA
+oy AURA
+or wases
+Nominee - AASRAR) LAL WENA
+
+Statement Penod 01052018 t  04/052018
+
+a a a
+ee
+a
+ee ee
+a es
+RAM MEE!
+a
+ee ae
+EEN
+a ec
+ee
+a a
+a es
+
+Unless comutiizert notifies he bart mmedeenty of amy Sunpancy keared dy hen ot fen etsinmerst of
+Accent, be Loken Mat he has feet he HOORe Ceerert
+“COMPUTIN GENERATED ENTLRES SHOWN th THE STATEMENT OF ACCOUNT OO NOT MOGUL ANY
+AUTHENTICATION / INITIAL FROM THE BANK OFFICIAL PLEASE 00 NOT ACCEPT ANY MANUAL ENTRY IM
+YOUR COMPUTER GENERATED STATEMENT OF ACCOUNT
+Page Nos
+
+* PLEASE EMSURE THAT ALL THE CHEQUE LEAVES 8) YOUR CUSTOOY ARE OULY BRANDED WITH YOu
+‘6 DAGITE ACOOUNT NUMRPR
+
+* CUNTOMEIES ANE MRQUERTED IN TRE C/N INTERERT WOT TO IRRLA CHEQUES WITHOUT
+ADEQUATE CLEAR FUNDS (ARRANGEMENTS SUCH CHEQUES CAN BE RETURMED WITHOUT MAKING
+ANY FURTHER REFERENCE TO Tee
+
+* PLEASE ROAINTAIN MOORE AVERAGE BALANCE TO AVOIO LEVY OF CHARGES
+
+“Pie note Pena everest may be charged © ian actowes Ove 10 Enarem Peano Heer #8 Over
+
+‘Panings. son rwcegt of metal on Pe raaes prescmbed fy Band from teve time and fr non tnancal
+
+vemos We ron womsuan of ONS fnema non adherence ip terms aed condtors et
+
+Abe VCE Ore aN wre
+
+§& BankStatements.net
+
+Account Number: 1111111
+¥y¢ RB Statement Sort Code: 16-10-00
+AraKR BIC: RBOSGB2L
+
+The Royal Bank of Scotland SELECT ACCOUNT IBAN: GB11RBOS 1610 0011 1111 14
+
+MR TEST TESTER
+
+CURRENT ACCOUNT
+
+Branch Details Your Details
+ANY BRACH MRT TESTER Previous Balance £1803.90
+
+ANY STREET 1 TEST STREET — SSS
+ANY TOWN TEST TOWN Paid Out £2,684.10
+AN1 TWN TE5 7ER Paid In £2,180.40
+
+New Balance £300.20
+pate type [Desorption | Paidin| Paid ull Baancol
+
+BRIGHT FORWARD 1803.90
+22 Oct 2014 AUTOMATED PAY IN 650274051211-CHB 190.40 1803.9
+22 Oct 2014 DIGITAL BANKING pine ee EM 140.00 1613.5
+24 Oct 2014 Faster Payment Amazon 132.30 1473.5
+24 Oct 2014 BACS Tebay Trading Co. 515.22 1341.2
+25 Oct 2014 Faster Payment Morrisons Petrol 80.00 825.98
+25 Oct 2014 BACS Business Loan 20,000.00 745.98
+26 Oct 2014 BACS James White Media 2,461.55 20745.98
+27 Oct 2014 Faster Payment ATM High Street 100.00 18284.43
+01 Nov 2014 BACS Acorn Advertising Studies 150.00 18184.43
+01 Nov 2014 BACS Marriott Hotel 177.00 18034.43
+01 Nov 2014 Faster Payment Abellio Scotrail Ltd 122.22 17857.43
+01 Nov 2014 CHQ Cheque 0000234 1,200.00 17735.21
+01 Dec 2014 Int. Bank Interest Paid 9.33 16535.21
+01 Dec 2014 DD OVO Energy 2470.00 16544.54
+21 Dec 2014 BACS Various Payment 10,526.40 14074.54
+21 Dec 2014 BACS HMRC 1,000.00 3548.14
+21 Dec 2014 DD DVLA 280.00 2548.14
+
+Balance Received Forward
+
+Royal Bank of Scotland Pic. Registered Office, The Mound, Edinburgh EH1 1YZ. Registered in Scotland number SC327000
+Authorized by the Prudential Regulation Authority and regulated by the Financial Conduct and the Prudential Regulation authority.
+
+{} HoOFC BANK
+
+MR RAJESH Gane
+CAPITAL MARKEF TOP FLOOK
+SD LADEN LA ROAD
+
+OPP CAPTTAL CINEMA HALL
+
+DARIFELING THD]
+WEST BENKIAL INISA
+
+XUNT HOE DERS |
+
+MOmePwbid © Net Begisoned
+
+Fever O16 NT fo: pga?
+PRKHALAMMANAGEMENT FEE SAN-MARIT ONSET
+Pt C8 -HaSe2spaeadT - MARYLAND RESO
+nisi
+
+IPT - Cot O4S428 90000047 - MARTTAND RESO
+RTS LID
+
+TT 84259000014 T- MARYEAND RISO
+RISsiio
+
+REPT -CR-UTIRORUNSa) MARYLAND RESORTS LTD:
+
+(RATESH GARG AMICI TIOTS 0653
+
+AFOS DRATING#OOM& SARINA GARG -SILIGUR
+WES IDECKS Bai TUEHAHTRSETED
+
+MHC STATE BAMA OF INDRA eerT ole on
+CHO DEP MOOR - (9 HILL CART ROAD
+
+RCS CR-SBINOOGEL Ss MILL ENSA EXIM PTL
+TIMAHSH GARG SHIN L301 Mah oomng4399
+
+STATEMENT SUMMARY >
+Open, Bodvere
+Pre B Ss
+
+Corerste€ On) Heda 2enT oe
+
+HDFC BANK LIMITED
+
+Acovant taech : OARJEELIN(. WEST BENGAL
+Achinest | ADEN 14 ROAD,
+Ak MALL-Cer am),
+Cine DARIEEEING THI
+Soe + WEST BENGAL
+Phen ey wash TAS
+0) Lore : {Lee
+Certrscy NE
+Borel | MARIGO Deacsinr cnet
+Cow 1b | Pheu
+oneal) No (SAPO. | Preferred Caneeny
+AD Opes tae | Thee
+Acopest Stabe: Reger
+RTGS NEFT 1s ADROORM SE pn lol THM
+firedtitee 8 | a Prodiet Coat ©
+Statement of account
+
+AXICST HeaT DBAS
+
+SINK ION THe Lea)
+
+Generated Be T1steke
+
+eCleising’ balance mcludes funds earmarked for hold and wnckeared tends
+
+‘Comates of tay ntent (8 be cmetdened comer ifeeoret br pated nae Broty ot rece ef sanernors Thy ackdoee ce tts muscnece © tat ox sorced elit ihy Mord we ar the dey of regueming
+
+te hee!
+Na sree 7 try hens
+
+Kepoered HH Har Henne ers Fa Mir sewer
+
+se Waceber MV STDANK & OTHER SERMICES aaat
+Poort Shee aa
+
+Moni?
+
+pest?
+
+| teat?
+
+jean?
+
+emit Crevits Cloning Bat
+$00,115.10 1169 088 1 aye noe
+Kequeviens Branch Code: NEF
+
+TMs 8 d cota penr pracreted oxmreent aed hws
+tek heepete signetary
+
+Pao §BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+Account Balance
+FD Link
+
+Total Balance
+Nomination
+
+ACCOUNT STATEMENT
+
+Txn Date | Value Date | Description | Ref No/Cheque No Credit | Balance
+02 Jan 2019 | 02 Jan 2019 XXXXXXX XXXXXXX XXXXX
+
+10 Jan 2019} 10 Jan 2019 XXXXXXX XXXXXXX XXXXX
+15 Jan 2019] 15 Jan 2019 XXXXXXX XXXXXXX
+20 Jan 2019} 20 Jan 2019 XXXXXXX XXXXXXX
+25 Jan 2019} 25 Jan 2019 XXXXXXX XXXXXXX
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+IFSC
+J paisabazaar@ | of
+
+
+urea ez fe
+
+State Bank of India
+The Asnker te Every ledies
+Account Name Captan SHANTANU SINGH
+Adaress = 278
+
+ANAS VIKAS COLONY-24 1001
+
+HARDO!
+Date 27 May 2015
+Account Number 2000003 1854271252
+Account Descrpton : SBCHQDSP-PUS IND-GOLDINR
+Branch : CINEMA ROAD HARDO!
+Drawing Power 70.00
+Interest Rates 9.2.) 4c
+CIF No : SEOES1 IDS
+IFS Code - SBenc004012
+MICR Code 241002006
+
+Norinaton Registered Ye
+Seance as on 1 Agr 2015 : 67,789.41
+
+Account Statement from 1 Apr 2015 to 30 Apr 2015
+
+Se = SS
+imonsn of MAR 2015-
+
+P= 2 | =
+MASE AE 45
+
+7 Agr 2015)F 244100 $3,995.41
+pooesiaetr=s U ae MagW
+
+Tassel Tareas excere one pf} ne.
+
+oe eee — a —— ee
+through GCO- 20183646550
+
+D PCS PRCHSOS 10,000.06 50,985.41
+041 100000353 THE AROMA
+CHANDIG-
+Se a a
+200114417560
+
+D (TM WOL-ATM 4741 S8i 3,005.00 42,353.41
+AROMA PETROL FuM
+ee AN i
+1,580.00
+cone rs005 Ous an
+a a
+3A35E05 17 17
+
+| ae aR
+EHANDIGARE CHINE
+
+Current Account
+Statement
+
+0572
+
+Mr. John Doe
+20 Sherwood St,
+London W1F 7ED
+
+Your FlexAccount
+
+Statementdate:16 July 2020
+
+§® BankStatements.net
+
+Gy Nationwide
+
+Building Society
+
+Sort code 07-04-35
+transactions Statement no: 22 1 of 4 Account no 123456789
+Start balance £603.84
+Date Description £ Out £in £ Balance End balance £1,164.53
+2020 Balance from statement 21 dated 16/06/2020 603.84 a REL! sil
+16Jun PAYPAL *DSGRETAIW EB 3531436900 179.99 Average debit
+balance £0.00
+PAYBYPHONE RE: BARNET BARNET OFF 1.76 Reconinasa
+Contactless Payment International Payment
+6.81 415.28
+THE ROSE SUPER MARKET BIC NAIABB
+17 Jun Contactless Payment 10.06 IBAN G611 NAIA 074 1234 1234
+SAINSBURYS S/MKTS FINCHLEY REGE moneaiay Bank MIDLGB22
+KETOCUSTOMPLAN.COM VANCOUVER 27.00 378.22
+18 Jun Payment to BIANCA ELENA ION 200.00
+Effective Date 17Jun 2020 Sto p a n d
+Transfer from 071660 60408617 100.00 th j n k
+Transfer to 070436 45929999 170.00
+We want to do everything we
+Transfer to 070436 45929999 30.00 can to alert ,educate and protect
+Contactless Payment you from fraud. That's why,when
+11.79 you set up a new payee you'll
+IHE ROSE SUPER MARKET soon be given some guidance to
+help you decide whether to
+PAYPAL *PEACHQUEENL 35314369001 18.00 48.43 make that payment before 4t
+20 Jun Transfer from 071660 60408617 100.00 148.43 goes through.
+3 For more informat ion about
+Effective Date 19 Jun 2020 fraud and scams, go to
+22 Jun Transfer from 071660 60408617 200.00 nationwide.co.uk/fraudaware
+Effective Date 20 Jun 2020
+EUROTUNNEL PRESALE FOLKESTONE 72.00 Please help us to
+E/TUNNEL INTERNET FOLKESTONE 103.00 keep your details up
+to date and let us
+TOTAL PL 4650052 67SAVERNE 74.06 know if your name,
+81.630000EUR at 1.10221 telephone numbers
+Non-Sterling transaction fee 2.21 or address changes.
+Transfer from 070436 45929999 600.00 697.16 + Log in to the Intemet Bank
+* Visit your local branch
+23 Jun SANEF 422100160SENUS 14.60 + Visit nationwide.co.uk/update
+16.100000EUR at 1.10274 details for more information
+Non-Sterling transaction fee 0.44 682.12
+24 Jun Contactless Payment 1.66
+NSL LTD - BARNET BIRMINGHAM My
+
+Nationwide Building Society is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority under registration number
+
+106078. Head Office Nationwide Building Society, Nationwide House, Pipers Way, Swindon, SN38 INW
+
+@& BankStatements.net
+
+we —_
+NETSPEND CONTOMEN SERVICE DEFORMATION
+
+WebSite: www.netspend.com
+Service Center: 1-801-930-0991
+‘ara Espanol: -
+pene acpenryrmcogeIO 1 nearemna e International Calls: 1-713-555-1655
+Mr. John Doe Contact us by phone for questions, on this
+2 Post Alley, statement, change information. and general
+Seattle, WA 98101 inquiries, 24 hours a day, 7 days a week
+
+Account Summary April 30, 2020. Account Number, 00001213456789
+
+MIND AIT
+
+Opening Balance $5,234.09
+Withdrawals $2,395.67
+Deposits $2,872.45
+Closing balance on Apr 30, 2020 $9,710.87
+
+Your Transaction Details
+
+Date Details Withdrawals Deposits Balance
+Apr 8 Opening Balance 5,234.09
+Apr 8 Insurance 272.45 5,506.54
+Apr 10 ATM 200.00 5,306.54
+Apr 12 Internet Transfer 250.00 5,556.54
+Apr 12 Payroll 2100.00 7,656.54
+Apr 13 Bill payment 135.07 7,521.47
+Apr 14 Direct debit 200.00 7,321.47
+Apr 14 Deposit 250.00 7,567.87
+Apr 15 Bill payment 525.72 7,042.15
+Apr 17 Bill payment 327.63 6,714.52
+Apr 17 Bill payment 729.96 5,984.56
+Apr 18 Insurance 272.45 5,506.54
+Apr 18 ATM 200.00 5,306.54
+Apr 18 Internet Transfer 250.00 5,556.54
+Apr 18 Payroll 2 00.00 7,656.54
+Apr 18 Bill payment 135.07 7,521.47
+Apr 19 Direct debit 200.00 7,321.47
+Apr 19 Deposit 250.00 7.567,87
+Apr 19 Bill payment 625.72 7,042.15
+Apr 20 Bill payment 327.63 6,714.52
+Apr 20 Bill payment 729.96 5,984.56
+Apr 20 Deposit 250.00 7.567.87
+Apr 20 Bill payment 525.72 7,042.15
+Apr 20 Bill payment 327.63 6,714.52
+Apr 21 Bill payment 729.96 5,984.56
+
+Closing Balance $9.710.87
+
+
+fiz CHOICE
+
+JFiMartin Choice Bark
+
+Weet Virginia
+
+PO Box 990180
+
+Country Roads. WY 70826-0180
+
+laals A aBalestd ale bello Heel | lav lid wlabesid she bé delle weak
+
+July 1, 2018 through July 31, 2018
+Primary Account 48
+
+TEE
+CUSTOMER SERVICE INFORMATION
+ed
+WebSite www.choicebank.com
+
+Service Center
+Hearing Impaired.
+Para Espanol:
+International Calis:
+
+1-800-555-9935
+1-800-555-7383
+1-877-585-4273
+1-713-555-1679
+
+GoOMMge DDA 001 LA 1beté — 7YN T + CoondoDd OF 0000.
+Company Name Contact us by phone tor questions. on this
+Company Adcress stalernent, change information, and general
+State, Zip inquiries, 24 hours a day, 7 days a week
+Account Summary
+Opening Balance $5,234.09
+Withdrawals $2,395.67
+Deposits $2,872.45
+Closing Balance on Apr 18, 2010 $9,710.87
+Your Transaction Details
+Date Details Withdrawals Deposits
+Apr 8 Opening Balance
+Apr 8 Insurance 272.45
+Apr 10 ATM 200,00
+Apr 12 Internet Transfer 250.00
+Apr 12 Payroll 2100.00
+Apr 13 Bill payment 135,07
+Apr 14 Direct debit 200,00
+Apr 14 Deposit 250.00
+Apr 15 Bill payment 525.72
+Ape 17 Bill payment 327.63
+Apr 17 Bill payment 729,96
+Apr 18 Insurance 272.45
+Apr 18 ATM 200.00
+Apr 18 Internet Transfer 250,00
+Apr 18 Payroll 2100.00
+Apr 18 Bill payment 135,07
+Apr 19 Direct debit 200.00
+Apr 19 Deposit 250,00
+Apr 19 Bill payment 525.72
+Apr 20 Bill payment 327,63
+Apr 20 Bill payment 729,96
+Apr 20 Deposit 250.00
+Apr 20 Bill payment 525,72
+Apr 20 Bill payment 327,63
+Apr 21 Bill payment 729,96
+
+Closing Balance
+
+WAM TA
+
+7,656.54
+7,521.47
+7,321.47
+7.567 87
+7,042.15
+6,714.52
+5,984.56
+7,567.87
+7,042.15
+6,714.52
+5,984.56
+
+$9,710.87
+
+ys monzo
+
+Statement
+01/11/2020 - 16/11/2020
+
+£86.69
+Total balance
+
+(inctuding pots
+
+£86.69
+Balance held with Monzo
+
+£0.00
+Balance held with Paragon
+
+-£192.58
+
+Total outgoings
+
++£271.00
+Total deposits
+
+Sort Code: 04-00-04
+Account Number: 123456789
+
+(GBP) Amount (GBP) Balance
+
+Mr John Doe
+
+20 Sherwood St,
+
+London W1F 7ED
+
+United Kingdom
+Date Description
+16/11/2020 SAMUEL CLEMENTS (Faster Payments)
+15/11/2020 SumUp “waihong chines shefield GBR
+15/11/2020 SAINSBURYS SACAT 4468 SHEFFIELD GBR
+14/11/2020 DRINKS STOP SHEFFIELD GBR
+13/11/2020 LIDL GB SHEFFIELD SHEFFIELD GBR
+13/11/2020 LIDL GB SHEFFIELD SHEFFIELD GBR
+13/11/2020 SAMUEL CLEMENTS (Faster Payments)
+
+80.00 86.69
+-18.50 6.69
+1.30 25.19
+-0.78 26.49
+-11,68 27.27
+-30,36 38.95
+60.00 69.31
+
+FINANCE BANK
+0987 Second Street, Austin, TX 12345-6789
+1-000-222-3456
+
+Photography Business, LLC Account Name: Photography Business, LLC
+Mr. Bean Lasso Account Number: 0000000098765
+
+123 Abraham Street Account Type: Checking
+
+Austin City, Tx 12345-6789 Statement Period: 06/01/2022 to 06/30/2022
+
+111-222-3333
+
+ACCOUNT SUMMARY
+Balance on June 1: $34,572.23
+Total money in: $12,193.75
+Total money out: $ 9,254.52
+Balance on June 30: $37,511.46
+DATE DESCRIPTION WITHDRAWAL DEPOSIT BALANCE
+Previous Balance 34,572.23
+06/01 Rent Bill 670.00 33,902.23
+
+Check No. 3456
+06/03 Payment from Nala Spencer 740.00 34,642.23
+
+06/08 Electric Bill 347.85 34,294.38
+
+06/13 Phone Bill 75.45 34,218.93
+
+06/15 Deposit 7,245.00 41,463.93
+Debit Transaction
+
+Oars Photography Tools Warehouse See acer
+
+06/24 Deposit 3,255.00 44,378.97
+
+06/25 Internet Bill 88.88 44,290.09
+Check No. 0231
+
+06/26 Payment from Kyubi Tayler 239.00) $51225.09
+
+06/29 Payroll Run 6,493.65 38,731.44
+Debit Transaction
+
+BBG Picture Perfect Equipments 128498 a ARSAS
+
+06/30 Interest Earned 18.75 37,515.21
+
+06/30 Withholding Tax 3.75 37,511.46
+
+Ending Balance 37,511.46
+
+
+ys monzo
+
+Statement
+01/11/2020 - 16/11/2020
+
+£86.69
+Total balance
+
+(inctuding pots
+
+£86.69
+Balance held with Monzo
+
+£0.00
+Balance held with Paragon
+
+-£192.58
+
+Total outgoings
+
++£271.00
+Total deposits
+
+Sort Code: 04-00-04
+Account Number: 123456789
+
+(GBP) Amount (GBP) Balance
+
+Mr John Doe
+
+20 Sherwood St,
+
+London W1F 7ED
+
+United Kingdom
+Date Description
+16/11/2020 SAMUEL CLEMENTS (Faster Payments)
+15/11/2020 SumUp “waihong chines shefield GBR
+15/11/2020 SAINSBURYS SACAT 4468 SHEFFIELD GBR
+14/11/2020 DRINKS STOP SHEFFIELD GBR
+13/11/2020 LIDL GB SHEFFIELD SHEFFIELD GBR
+13/11/2020 LIDL GB SHEFFIELD SHEFFIELD GBR
+13/11/2020 SAMUEL CLEMENTS (Faster Payments)
+
+80.00 86.69
+-18.50 6.69
+1.30 25.19
+-0.78 26.49
+-11,68 27.27
+-30,36 38.95
+60.00 69.31
+
+FINANCE BANK
+0987 Second Street, Austin, TX 12345-6789
+1-000-222-3456
+
+Photography Business, LLC Account Name: Photography Business, LLC
+Mr. Bean Lasso Account Number: 0000000098765
+
+123 Abraham Street Account Type: Checking
+
+Austin City, Tx 12345-6789 Statement Period: 06/01/2022 to 06/30/2022
+
+111-222-3333
+
+ACCOUNT SUMMARY
+Balance on June 1: $34,572.23
+Total money in: $12,193.75
+Total money out: $ 9,254.52
+Balance on June 30: $37,511.46
+DATE DESCRIPTION WITHDRAWAL DEPOSIT BALANCE
+Previous Balance 34,572.23
+06/01 Rent Bill 670.00 33,902.23
+
+Check No. 3456
+06/03 Payment from Nala Spencer 740.00 34,642.23
+
+06/08 Electric Bill 347.85 34,294.38
+
+06/13 Phone Bill 75.45 34,218.93
+
+06/15 Deposit 7,245.00 41,463.93
+Debit Transaction
+
+Oars Photography Tools Warehouse See acer
+
+06/24 Deposit 3,255.00 44,378.97
+
+06/25 Internet Bill 88.88 44,290.09
+Check No. 0231
+
+06/26 Payment from Kyubi Tayler 239.00) $51225.09
+
+06/29 Payroll Run 6,493.65 38,731.44
+Debit Transaction
+
+BBG Picture Perfect Equipments 128498 a ARSAS
+
+06/30 Interest Earned 18.75 37,515.21
+
+06/30 Withholding Tax 3.75 37,511.46
+
+Ending Balance 37,511.46
+
+
+FINANCE BANK
+0987 Second Street, Austin, TX 12345-6789
+1-000-222-3456
+
+Photography Business, LLC Account Name: Photography Business, LLC
+Mr. Bean Lasso Account Number: 0000000098765
+
+123 Abraham Street Account Type: Checking
+
+Austin City, Tx 12345-6789 Statement Period: 06/01/2022 to 06/30/2022
+
+111-222-3333
+
+ACCOUNT SUMMARY
+Balance on June 1: $34,572.23
+Total money in: $12,193.75
+Total money out: $ 9,254.52
+Balance on June 30: $37,511.46
+DATE DESCRIPTION WITHDRAWAL DEPOSIT BALANCE
+Previous Balance 34,572.23
+06/01 Rent Bill 670.00 33,902.23
+
+Check No. 3456
+06/03 Payment from Nala Spencer 740.00 34,642.23
+
+06/08 Electric Bill 347.85 34,294.38
+
+06/13 Phone Bill 75.45 34,218.93
+
+06/15 Deposit 7,245.00 41,463.93
+Debit Transaction
+
+Oars Photography Tools Warehouse See acer
+
+06/24 Deposit 3,255.00 44,378.97
+
+06/25 Internet Bill 88.88 44,290.09
+Check No. 0231
+
+06/26 Payment from Kyubi Tayler 239.00) $51225.09
+
+06/29 Payroll Run 6,493.65 38,731.44
+Debit Transaction
+
+BBG Picture Perfect Equipments 128498 a ARSAS
+
+06/30 Interest Earned 18.75 37,515.21
+
+06/30 Withholding Tax 3.75 37,511.46
+
+Ending Balance 37,511.46
+
+
+LORanK.
+
+Mwai
+
+Account Number:
+& Bankstatements.net
+
+PO Box 1800 1 234 3456 6789
+Saint Paul, Minnesota 55101-0800. Statement Period:
+~_ 7086 TRN Ss xX sT01 Jul 17, 2019
+— through
+Aug 15, 2019
+ey
+Re Page 1 of 3
+Pe TD Dee dee gee
+000096466 01 SP 000638117810813 E
+MR JOHN DOE = To Contact U.S. Bank
+SEATTLE, WAO81 01 By Phone: 1200 US BANKS
+(1-800-872-2657)
+St. Louis
+Metro Area: 314-425-2000
+U.S. Bank accepts Relay Calls
+Internet: usbank.com
+STUDENT CHECKING Member FDIC
+U.S. Bank National Association Account Number 1-234-3456-6789
+Account Summary
+Beginning Balance on Jul 17 $ 405.75 Number of Days in Statement Period 30
+Deposits | Credits 1,150.00
+Card Withdrawals 907.75-
+Other Withdrawals 263 .50-
+Ending Balance on Aug 15, 2019 $ 384.50
+Deposits | Credits
+Date Description of Transaction Ref Number Amount
+Jul 17 Visa Direct PAYPAL*Perlow Al 8607171056 $ 99.00
+Jul 18 Zelle Instant PMT From ARNO PERLOW 100.00
+On 07/ 18/ 19 PMT ID=PNC013608186
+Jul 19  Zelle Instant PMT From ARNO PERLOW 100.00
+On 07/19/19 PMT ID=PNC013684985
+Jul 19  Zelle Instant PMT From ARNO PERLOW 100.00
+On 07/19/19 PMT ID=PNC013699296
+Jul 22  Zelle Instant PMT From ARNO PERLOW 50.00
+On 07/20/19 PMT ID=PNC013717143
+Jul 26 Zelle Instant PMT From ARNO PERLOW 100.00
+On 07/26/19 PMT ID=PNC013933305
+Jul 29  Zelle Instant PMT From ARNO PERLOW 100.00
+On 07/27/19 PMT ID=PNC013979006
+Jul 30 Electronic Deposit From VENMO 1.00
+REF=192100184060920NOO CASHOUT 5264681992
+Aug 1 Zelle Instant PMT From ARNO PERLOW 200 .00
+On 08/01/19 PMT ID=PNC014193438
+Aug 12 Zelle Instant PMT From ARNO PERLOW 50.00
+On 08/10/19 PMT ID=PNC014611386
+Aug 12 Zelle Instant PMT From ARNO PERLOW 200 .00
+On 08/10/19 PMT ID=PNC014631937
+Aug 15 Zelle Instant PMT From ARNO PERLOW 50.00
+On 08/15/19 PMT ID=PNC014823113
+Total Deposits / Credits $ 1,150.00
+Card Withdrawals
+Card Number: xxxx-xxxx-xxxx-6789
+Date Description of Transaction Ref Number Amount
+Jul 17 Debit Purchase - VISA On 071719 866-712-7753 CA 8100093189 $ 14.43-
+APL* ITUNES.COM/ REF # 24692169198100093189880
+Jul 18 Debit Purchase - VISA On 071719 RICHMOND HEI MO 9100655200 23.57-
+PANERA BREAD #60 REF # 24692169199100655200744
+Jul 22 Debit Purchase WALGREENS STORE RICHMOND HEIMO 1907191849 3.91-
+431919 On 071919 ILK1TERM REF 920023431919
+Jul 22 Debit Purchase WALGREENS STORE RICHMOND HEIMO 4707201309 17.01-
+
+044547
+
+On 072019 ILK1TERM REF 920118044547
+
+i) Bank
+
+America’s Most Convenient Bank®
+
+ADAM STEIN
+141-12 70TH AVE
+FLUSHING, NY 11367
+
+STATEMENT OF ACCOUNT
+
+Page:
+
+Statement Period:
+Cust Ref #:
+Primary Account #:
+
+KEEPING TRACK OF YOUR BANKING ACTIVITY JUST GOT EASIER!
+ON NOV 01 WE BEGAN PROCESSING TRANSACTIONS (INCLUDING PENDING) IN THE ORDER YOU MAKE THEM.
+CHECKS YOU WRITE THAT ARE CASHED OR DEPOSITED AT ANOTHER BANK, HOWEVER, PROCESS AT 11PM ON
+THE DATE WE RECEIVE THEM. DEPOSITS NO LONGER PROCESS FIRST SO WATCH YOUR AVAILABLE BALANCE.
+TRECK YPOR ACCOUNT ANYTIME WITH FREE ONLINE OR MOBILE BANKING. VISIT TDBANK.COM/NEWPROCESS OR
+
+CALL 1-888-888-0130 FOR DETAILS.
+
+TD Convenience Checking
+
+1of 3
+Nov 01 2019-Nov 30 2019
+3077408-081-E-**"
+
+00-4324930654
+
+ADAM STEIN Account # 00-4324930654
+ACCOUNT SUMMARY
+Statement Balance as of 11/30 45,000.00
+Plus 2 Deposits and Other Credits 1.02
+Less 8 Checks and Other Debits 5,300.19
+Statement Balance as of 11/30 39,700.83
+ACCOUNT ACTIVITY
+Transactions by Date
+DATE DESCRIPTION DEBIT CREDIT BALANCE
+11/10 INTEREST CREDIT 0.06 44,999.94
+11/11. DUE ACH ONLINE 0.10 44,999.84
+11/16 FNBO DIRECT TRIALCREDT 0.56 45,000.40
+11/16 WALMART 1.124 44,876.40
+11/16 FNBO DIRECT TRIALCREDT 0.46 44,876.86
+11/17 | FNBO DIRECT NEWACCOUNT 3.200 40,676.86
+11/19 WALMART 173.74 40,503.12
+11/19 AMAZON 12.00 40,491.12
+11/20 INTEREST CREDIT 4.06 40,487.06
+11/21. AMAZON 786.23 39,700.83
+
+Call 1-800-937-2000 for 24-hour Bank-by-Phone services or connect to www.tdbank.com
+
+Bank Deposits FDIC Insured | TD Bank, N.A. | Equal Housing Lender [SY
+
+(Q) Union Bank BANK STATEMENT
+
+of India
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+Account Balance
+FD Link
+
+Total Balance
+Nomination
+
+ACCOUNT STATEMENT
+
+Txn Date | Value Date | Description | Ref No/Cheque No i Credit | Balance
+
+02 Jan 2019 | 02 Jan 2019 XXXXXXX XXXXXXX XXXXX
+10 Jan 2019} 10Jan 2019 XXXXXXX XXXXXXX XXXXX
+
+15 Jan 2019} 15Jan 2019 XXXXXXX XXXXXXXK XXXXX
+20 Jan 2019 | 20Jan 2019 XXXXXXX XXXXXXK XXXXX
+25 Jan 2019 | 25 Jan 2019 XXXXXXX XXXXKXXX XXXXX
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+IFSC
+
+
+wrdia ez Be
+
+State Bank of India
+
+Wreh pen. all eke war
+Account Name
+
+Address
+
+Date
+
+Account Number
+Account Description
+Branch
+
+Drawing Power
+Interest Ratef% pa.)
+MOD Balance
+Balance as on 31 Oct 2009
+
+Account Statement from 31
+
+Tn Wy Debit Balance
+! No.
+27Nov| 27Novl BYTRANSFER-  |ITOeO16500 40,000.00] 41,185.30
+2009] ~ 2009/BHASKAR- TRANSFER
+FROM
+10824176618
+27 Nov| 27Novl BYTRANSFER-  |iToeo19676 25,000.00| 66,185.30
+2009| “ 2009/BHASKAR-ERPUé- [TRANSFER
+oe2ei7e81e
+
+: Mr. SHESADEV PANIGRAHY
+
+NO 3. 15TH CROSS MALAGALA . NAGARBHAVI 2ND STG .
+BANGALORE 560081
+
+BANGALORE
+KARNATAKS-5600914
+india
+
+: 3 Dec 2008
+
+- OD000030063662246
+
+> SBNCHOQ-GEN-PUB-IND-NONRURAL
+> MAGAD! ROAD
+
+- 1,185.30
+
+Oct 2008 to 30 Dec 2008
+
+— Nov] 27 15,000.00
+2009 egep eneodroooeonse
+siatonse a
+
+— Nov
+
+15,000.00 36,185.30
+STANDOEOIE18-
+
+om Nov] 27 ATM WOL- 10,000.00 26,185.30
+2009 ogzptetbo4on0e00se|
+SiNo0s01618-
+ba Nov} 28 Nov) ATM Wi
+2009 pee
+
+
+@ Bankstatements.net
+
+SuttonBank
+
+Old-fashioned Innovation
+
+Contact tel 800-422-3641
+
+see reverse for call times
+
+Text phone 800-422-3641
+
+used by deaf or speech impaired customers
+
+www.suttonbank.com/
+
+2 Post Alley,
+Seattle,
+WA 98101 Account Summary
+Opening Balance 9985.50
+Payments in 6000.00
+Mel fege tft yeep | fpety led ff] Payments Out 3700.00
+Closing Balance 12285.50
+01 Apr to 29 Apr 2021
+Account name Rounting Account number Sheet Number
+Mr John Doe 041215663 —eveceeeeeee1 234 4
+Your Bank Account details
+Date Details Paid out Paid in Balance
+01 Apr 2021 BALANCE BROUGHT 9985.50
+FORWARD
+01 Apr 2021 WINDIXIE FOOD MARKET 300.00 9685.50
+03 Apr 2021 FPL BILL PAYMENT #ACH2133 70.00 9615.50
+CODE 343.0
+06 Apr 2021 FL DISTRICT DESIGN 200.00 9415.50
+FL, 33313
+06 Apr 2021 PAYROLL PAYMENT 22765556 2950.00 12365.50
+GRABBA GUMMY
+08 Apr 2021 36ONLINE TRANSFER 2000.00 10365.50
+TRANSFER TO Property
+Priorities LLC
+Hs 4865
+08 Apr 2021 ELECTRONIC DBT 50.00 10415.50
+EMPLOYMENT DEVEL EDD
+EFTPMT 413020 1582349784
+CCD
+10 Apr 2021 ELECTRONIC DBT 100.00 10315.50
+T-MOBILE.COM PCS SVC
+102620WEB
+12 Apr 2021 DEBIT CARD POS 280.00 10035.50
+
+Luckys Food Market
+Plantation, FL
+POS 3435 #4235
+15 Apr 2021 ELECTRONIC DBT Xfinity 150.00 9885.50
+6034XFIN 13232 4367452
+ccD
+
+SuttonBank
+
+O/d-fashioned Innovation
+
+2 Post Alley,
+Seattle,
+WA 98101
+
+01 Apr to 29 Apr 2021
+
+Account name
+Mr John Doe
+
+01 Apr 2021 BALANCE BROUGHT
+FORWARD
+01 Apr 2021 WINDIXIE FOOD MARKET
+
+03 Apr 2021 FPL BILL PAYMENT #ACH2133
+CODE 343.0
+
+06 Apr 2021 FL DISTRICT DESIGN
+FL, 33313
+
+06 Apr 2021 PAYROLL PAYMENT 22765556
+GRABBA GUMMY
+
+08 Apr 2021 36ONLINE TRANSFER
+TRANSFER TO Property
+Priorities LLC
+***_**B652
+
+08 Apr 2021 ELECTRONIC DBT
+EMPLOYMENT DEVEL EDD
+EFTPMT 413020 1582349784
+ccD
+
+10 Apr 2021 ELECTRONIC DBT
+T-MOBILE.COM PCS SVC
+102620WEB
+
+12 Apr 2021 DEBIT CARD POS
+Luckys Food Market
+Plantation, FL
+POS 3435 #4235
+
+15 Apr 2021 ELECTRONIC DBT Xfinity
+6034XFIN 13232 4367452
+ccD
+
+Rounting Account number
+041215663 — «reeeenenee 1234 1
+
+Contact tel 800-422-3641
+
+see reverse for call times
+
+Text phone 800-422-3641
+used by deaf or speech impaired customers
+
+www.suttonbank.com/
+
+Account Summary
+
+Opening Balance 9985.50
+
+Payments in 6000.00
+Payments Out 3700.00
+Closing Balance 1 50
+
+Sheet Number
+
+9985.50
+
+300.00 9685.50
+70.00 9615.50
+200.00 9415.50
+2950.00 12365,.50
+
+2000.00 10365.50
+50.00 10415.50
+
+100.00 10315.50
+280.00 10035.50
+150.00 9885.50
+
+fiz CHOICE
+
+JFiMartin Choice Bark
+
+Weet Virginia
+
+PO Box 990180
+
+Country Roads. WY 70826-0180
+
+laals A aBalestd ale bello Heel | lav lid wlabesid she bé delle weak
+
+July 1, 2018 through July 31, 2018
+Primary Account 48
+
+TEE
+CUSTOMER SERVICE INFORMATION
+ed
+WebSite www.choicebank.com
+
+Service Center
+Hearing Impaired.
+Para Espanol:
+International Calis:
+
+1-800-555-9935
+1-800-555-7383
+1-877-585-4273
+1-713-555-1679
+
+GoOMMge DDA 001 LA 1beté — 7YN T + CoondoDd OF 0000.
+Company Name Contact us by phone tor questions. on this
+Company Adcress stalernent, change information, and general
+State, Zip inquiries, 24 hours a day, 7 days a week
+Account Summary
+Opening Balance $5,234.09
+Withdrawals $2,395.67
+Deposits $2,872.45
+Closing Balance on Apr 18, 2010 $9,710.87
+Your Transaction Details
+Date Details Withdrawals Deposits
+Apr 8 Opening Balance
+Apr 8 Insurance 272.45
+Apr 10 ATM 200,00
+Apr 12 Internet Transfer 250.00
+Apr 12 Payroll 2100.00
+Apr 13 Bill payment 135,07
+Apr 14 Direct debit 200,00
+Apr 14 Deposit 250.00
+Apr 15 Bill payment 525.72
+Ape 17 Bill payment 327.63
+Apr 17 Bill payment 729,96
+Apr 18 Insurance 272.45
+Apr 18 ATM 200.00
+Apr 18 Internet Transfer 250,00
+Apr 18 Payroll 2100.00
+Apr 18 Bill payment 135,07
+Apr 19 Direct debit 200.00
+Apr 19 Deposit 250,00
+Apr 19 Bill payment 525.72
+Apr 20 Bill payment 327,63
+Apr 20 Bill payment 729,96
+Apr 20 Deposit 250.00
+Apr 20 Bill payment 525,72
+Apr 20 Bill payment 327,63
+Apr 21 Bill payment 729,96
+
+Closing Balance
+
+WAM TA
+
+7,656.54
+7,521.47
+7,321.47
+7.567 87
+7,042.15
+6,714.52
+5,984.56
+7,567.87
+7,042.15
+6,714.52
+5,984.56
+
+$9,710.87
+
+Picict Bank | knayoa! aapka Page Vol 2 Ne NTA3
+
+57002) 18492) 1-2) RESCH 2a
+‘Your Dace Geaneh : (0) BANK LTD. EXPRESS
+TRAGE TOWERS 2 PLOT NO. & SR SECTOR 132.
+MS. MEHAK AGARWAL eS
+HONG. OS
+OWEN, PORT +
+DOL manta - ooo]
+
+Suremary of Accounts held undew Cent 1D - STG06785 as on March 20, 2017
+
+Sewteys Ae URTROTRI TRAD Peedi Bridie Nacooaiinneed
+
+Statement of Trorsactions in Savings Acoust Number: 157900517068 in NA tor the period March 01, 2017 - Merch St, 2077
+
+raz Lanenh ss
+onan Nicaea ASAI ve LHI
+HOw NTN DLO iaaete eeker esr) visa
+
+17 MET EAN cer teabea od Ram _ xa
+Oo) CHER ATG OMSK 0~=~*~<“‘“‘—SCS*™*™”™”™”!”!O!OO!O!OOOOU«UNe SC
+7 7 Oren a youn Ta ais
+jit ° ita iwiemaay vane oo ‘
+
+Me eros
+
+15e0 ohh sen
+
+Te Get curret roweed powte belewor ane for iter qumcen vind preew sevoieshcovs or crt AVC! Gat Cemrcewy Cone
+* Re om Mensch 20. 2017. bechadew sored onhat PAYBACK parcrere
+Foirtr eerent tet tee mores a refer etre eg of arte 0 chines is Pee oot nahn,
+
+Account Matrted Other information
+werest re
+
+Snooper dbrmleved ante on somite monnes! of muntuerer
+«Now up@ete yout Asche rurcbar by sencheg 20 GMS AADIAR <apece> 12 digh Asdbesr aaniter <apoen> leak 6 eights of Savings Aceoest a0. te a222aeete
+begee your repienired ehetdie wpreber or viel omar Levene
+
+Om,
+
+a To TRANSFER. : [TRANSE 9,7.
+os peseisia109”
+
+@SBI Pas
+
+aS ]
+
+Account Name :MAINI CONSTRUCTIONS EQ PVT.LTD _ + Ag
+Addrpss }B- 1/ A-21 , GROUND FLOOR,MOHAN CO - OPER
+
+ATIVE INDUSTRIAL ESTATE,MATHURA ROAD NEW OELH .
+
+1,South i
+
+DELHI ;
+
+DELHI-1 10044
+
+In
+Dato 33 Aug 2917
+Agcoynt Number + 00090081031423392
+Account Description : MCL-OD SME SARAL SSI>049713
+Branch : FARIDABAD
+Orawing Power 0,90
+interest Rate(% p.9.) 711.95
+GIF No, : 78117105389
+IFS Code : SBINO031310
+“ICR Code 3 1100026268 : :
+
+amination Registered :No
+Balance as on 1 Jun 2017 : -8,04,80,336.35
+
+Account Statement from 1 Jun 2017 to 31 Jul 2017
+
+ee a anes a aa a
+
+7 dun 2017] 1 Jun 2017|DEBIT-: “6.04,81,486.38
+40
+78147.
+R Pt 7a;
+
+-8,04,91,235.35
+
+49.00
+ee a
+
++8,04,97,310,35
+
+
+Picict Bank | knayoa! aapka Page Vol 2 Ne NTA3
+
+57002) 18492) 1-2) RESCH 2a
+‘Your Dace Geaneh : (0) BANK LTD. EXPRESS
+TRAGE TOWERS 2 PLOT NO. & SR SECTOR 132.
+MS. MEHAK AGARWAL eS
+HONG. OS
+OWEN, PORT +
+DOL manta - ooo]
+
+Suremary of Accounts held undew Cent 1D - STG06785 as on March 20, 2017
+
+Sewteys Ae URTROTRI TRAD Peedi Bridie Nacooaiinneed
+
+Statement of Trorsactions in Savings Acoust Number: 157900517068 in NA tor the period March 01, 2017 - Merch St, 2077
+
+raz Lanenh ss
+onan Nicaea ASAI ve LHI
+HOw NTN DLO iaaete eeker esr) visa
+
+17 MET EAN cer teabea od Ram _ xa
+Oo) CHER ATG OMSK 0~=~*~<“‘“‘—SCS*™*™”™”™”!”!O!OO!O!OOOOU«UNe SC
+7 7 Oren a youn Ta ais
+jit ° ita iwiemaay vane oo ‘
+
+Me eros
+
+15e0 ohh sen
+
+Te Get curret roweed powte belewor ane for iter qumcen vind preew sevoieshcovs or crt AVC! Gat Cemrcewy Cone
+* Re om Mensch 20. 2017. bechadew sored onhat PAYBACK parcrere
+Foirtr eerent tet tee mores a refer etre eg of arte 0 chines is Pee oot nahn,
+
+Account Matrted Other information
+werest re
+
+Snooper dbrmleved ante on somite monnes! of muntuerer
+«Now up@ete yout Asche rurcbar by sencheg 20 GMS AADIAR <apece> 12 digh Asdbesr aaniter <apoen> leak 6 eights of Savings Aceoest a0. te a222aeete
+begee your repienired ehetdie wpreber or viel omar Levene
+
+YOUR LOGO
+HERE
+
+Bank Account Statement
+
+| {Company Slogan]
+
+[Company Name] DATE: [CLICK TO SELECT
+[Street Address, City, ST ZIP Code] DATE]
+[phone] [fax]
+
+[email]
+
+OPENING BALANCE
+9999
+
+DESCRIPTION
+Finance charge on overdue balance at 1.5%
+
+
+Current Account Statement
+Account Name AHMAD MUSTAPHA DAFER
+
+Account number 00990275
+Sort Code 40-06-15
+502 2// 3 4562 004562 00684 00506
+200015
+Opening Balance € 3,000,000,000.00
+Payments In € 1,995,000,000.00
+Payments Out € 1,895,000,000.00
+Closing Balance € 3,100,000,000.00
+Account Type CURRENT/EUROPEAN
+CURRENCY
+07" February 2014 International Bank Account Number
+IDLGB225278/00990274
+AHMAD MUSTAPHA DAFER
+43 Great Sutton Street, London ECIV 2DB, HSBCGB2LXXX
+United Kingdom
+Transactions
+Description Details Money out Money in Balance
+Date Continued
+11 Jan 13 Balance B/F 3,000,000,000.00
+18 Jan 13 Received from IBM UK Credit 1,000,000,000.00 4,000,000,000.00
+Jan. 2010
+14 Feb 13 Payment to NatWest Mage Debit — 300,000,000.00 3,700,000,000.00
+Pay
+Ref: 001587905
+28 Feb 13 Payment to UK provident Debit 200,000,000.00 3,500,000,000.00
+Fund by Draft
+O05 Mar 13 Direct Debit HSBC UK Debit 1,000,000,000.00 2,500,000,000.00
+21Mar13 Received from Microsoft UK — Credit 300,000,000.00 = 2,800,000,000.00
+Account 504X0649
+29™Mar13 = Transfer from Sort Code 20-_— Credit 500,000,000.00  3,300,000,000.00
+10-53
+O08 May13 Payment to Exxon Mobil Debit — 100,000,000.00 3,200,000,000.00
+Unlimited
+15 May 13 Received from British Credit 55,000,000.00 3,255,000,000.00
+Petroleum
+29 May 13 = Payment to Board of Internal Debit 5,000,000.00 3,250,000,000.00
+02 July 13 Direct Debit HSBC China Debit 10,000,000.00 3.240,000,000.00
+20 Aug 13 Received from Shell BP Credit 40,000,000.00 = 3.280,000,000.00
+13Sept13 DrawnonChoNo. 448960 Debit 280,000,000.00 3,000,000,000.00
+09 Oct 13 Transfer from HSBC Dubai Credit 100,000,000.00 3,100,000,000.00
+07 Feb 14 Closing Balance 3,100,000,000.00
+
+Sort Code 40-05-15
+
+Statement page 1
+
+Ultimate Holding Company: 8 Canada Square London El 4 SHQ United Kingdom
+
+@ Bankstatements.net
+
+21 October 2020 Page 1 of 2
+
+Document requested by- Your Account
+
+MR JOHN DOE
+
+20 SHERWOOD ST, Sort Code 11-04-20
+
+LONDON W1F 7ED Account Number 123456789
+
+(Address last updated 15 Oct 2019)
+
+CURRENT ACCOUNT 01 July 2020 to 31 July 2020
+Money In £1,999.13 Balance on 01 July 2020 £505.91
+Money Out £1,903.79 Balance on 31 July 2020 £601.25
+
+CI
+
+Your Transactions
+
+Date Description Type Money In(£) Money Out (£) Balance (£)
+03 Jul 20 KINDER HOME CARE S BP 362.94 868.85
+03 Jul 20 BRIGET BOAKYE FPO 200.00 668.85
+06 Jul 20 WORLDREMIT LTD DEB 279.59 389.26
+07 Jul 20 ALMA FRUIT AND VEG DEB 11.00 378.26
+07 Jul 20 ALMA FRUIT AND VEG DEB 11.99 366.27
+07 Jul 20 ALMA FRUIT AND VEG DEB 85.00 281.27
+10 Jul 20 KINDER HOME CARE S$ FPI 413.28 694.55
+13 Jul 20 www.wave.com DEB 421.95 272.60
+13 Jul 20 THE*JUICEPLUS+COMP DEB 49.99 222.61
+
+16 Jul 20 WORLDREMIT LTD DEB 99.99 122.62
+
+16 Jul 20 C QUARTSIN TFR 195.05 317.67
+
+16 Jul 20 CHARITY FPO 317.67 0.00
+
+17 Jul 20 KINDER HOME CARE S$ FPI 387.66 387.66
+
+17 Jul 20 CHARITY FPO 387.66 0.00
+24 Jul 20 KINDER HOME CARE S BP 332.34 332.34
+27 Jul 20 Ego Shoes Ltd DEB 15.73 316.61
+
+(Continued on next page)
+
+If you think something is incorrect, please contact us on 0345 720 3040
+
+Ht e a deion of Bank ot Scotland sic. Fisistated in Scntand No, SCZ7000; Registered Otice: The ry wr li
+Bank of Scotland pic is authorised by the Prudential Requiation Authority and requiated by the Financial
+
+Prudential Reguiabon Authority under registration number 169628 Ahn echeen te The Sheadond of Lonsicg Prockee Ohick oe
+monttored and enforced by the LSB: www Jendingstandardsboard org.uk
+
+(OES BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+Account Balance
+FD Link
+
+Total Balance
+Nomination
+
+ACCOUNT STATEMENT
+
+Txn Date | Value Date | Description | Ref No/ChequeNo| Debit Credit | Balance
+
+02 Jan 2019 | 02 Jan 2019 XXXXXXX XXXXXXX XXXXX XXXXX | XXXXXXXK
+10 Jan 2019} 10Jan2019 XXXXXXXK XXXXXKX XXXXX XXXXX | XXXXXXX
+15 Jan 2019} 15Jan2019 XXXXXXX XXXXXXX XXXXX XXXXX | XXXXXXK
+20 Jan 2019 | 20Jan 2019 XXXXXXX XXXXXXX XXXXX XXXXX | XXXXXXX
+
+25 Jan 2019 | 25 Jan 2019 XXXXXXX XXXXXXX XXXXX XXXXX
+
+XXXXXXX
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+IFSC
+paisabazaar@
+
+
+ne
+Select Bank : | /CiCI BANK - KAMLANAGAR
+Account No. :
+
+| 10-04-2017 [Part Pre-Cr int | 30000] sd] 13 Less than & equalto
+07-04-2017 |Ref. No. 055444 Cash deposit 10000.00/ =—«|-—s- 1132000.00
+
+02-04-2017 |Ref. No. 015414 | 5000.00} = | 4922000.00|Cr |
+SE E=—__=L=____ES|
+
+
+> Hssc
+
+TemplateLAB
+
+Your Statement
+
+Contact Tel +44 80000000
+
+——— Current Account Statement See reverse for call time
+Account Name —_ AHMAD MUSTAPHA DAFER Text phone +4470 0592 1249
+— Account number 00990275 Used by deaf or speech impaired customers
+Sort Code 40-06-15 SER E RS ee
+— 502 2// 3 4562 004562 00684 00506 200015
+Opening Balance € 3,000,000,000.00
+Payments In € 1,995,000,000.00
+Payments Out € 1,895,000,000.00
+Closing Balance € 3,100,000,000.00
+Account Type CURRENT/EUROPEAN CURRENCY
+07" February 2014 International Bank Account Number
+
+IDLGB225278/00990274
+AHMAD MUSTAPHA DAFER
+
+43 Great Sutton Street, London ECIV 2DB, HSBCGB2LXXX
+United Kingdom
+Transactions
+Description
+Date Continued Details Money out Money in Balance
+
+3,000,000,000.00
+
+Received from IBM UK
+
+18 Jan 13 Jan. 2010 Credit 1,000,000,000.00 _4,000,000,000.00
+Payment to Natwest Mtge Payt
+
+14 Feb13 Ref 001587905 Debit 300,000,000.00 3,700,000,000.00
+Payment to UK provident Fund by
+
+28 Feb13 Draft Debit 200,000 ,000.00 3,500,000,000.00
+
+05Mar13_ Direct Debit HSBC UK Debit 1,000,000,000.00 2,500,000,000.00
+Received from Microsoft UK
+
+21Mar13 Account 504x0649 Credit 300,000,000.00 _2,800,000,000.00
+
+15 May 13 Received from British Petroleum Credit
+
+29 May 13 Payment to Board of Internal Debit 5,000,000.00 3,250,000,000.00
+02 July13 Direct Debit HSBC China Debit 10,000,000.00 3.240,000,000.00
+20 Aug 13 Received from Shell BP Credit 40,000,000.00__3.280,000,000.00
+13 Sept 13 Drawn on Cho No. 448960 Debit 280,000,000.00 3,000,000,000.00
+09 Oct13__ Transfer from HSBC Dubai Credit 100,000,000.00 _3,100,000,000.00
+
+07 Feb14 = Closing Balance 3,100,000,000.00
+
+Correspondence: HSBC Bank PLC Sort Code 40-05-15 Statement page 1
+
+Ultimate Holding Company: 8 Canada Square London El 4 5HQ United Kingdom
+
+
+@icici Bank BANK STATEMENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+Account Balance
+FD Link
+
+Total Balance
+Nomination
+
+ACCOUNT STATEMENT
+
+Txn Date | Value Date Ref No/Cheque No
+
+02 Jan 2019 | 62 Jan 2019 YORK
+1OJan 2019 | 10 Jan 2019 XXDOOOKK
+
+15Jan 2019) 15 Jan 2019 MXR KNX
+20 Jan2019 | 20 Jan 2079 XXX
+25 Jan 2019 | 25 Jan 2039 YOOX,
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+FIFTH THIRD BANK
+
+Subtotal:
+
+STATEMENT OF ACCOUNT
+ey Kaan ee Page: 1 of 2
+\ Statement Period: Feb 01 2020- Feb 29 2020
+Seattie, WASSi01 Cust Ref#: 7435100875-716-
+Primary Accounti: 123456789
+Fifth Third Business Plus
+On Time Restoration, LLC Account $ 123456780
+ACCOUNT SUMMARY
+Beginning Balance 353,060.27 Electronic Payments 120,100.00
+Deposits 11,540.00 Other Withdrawals 7,860.69
+Electronic Deposits 241,860.00 Ending Balance 478,499.31
+DEPOSITS
+POSTINGDATE —_—DESCRIPTION AMOUNT
+02/20 CASH DEPOSIT, AUT 112719 3275 NW 79TH ST 2,500.00
+02/04 CASH DEPOSIT, AUT 112719 3275 NW 79TH ST 2,000.00
+02/17 CASH DEPOSIT, AUT 112719 3275 NW 79TH ST 2,540.00
+02/20 CASH DEPOSIT, AUT 112719 3275 NW 79TH ST 2,000.00
+02/27 CASH DEPOSIT, AUT 112719 3275 NW 79TH ST 2.500.00
+Subtotal: 11,540.00
+ELECTRONIC DEPOSITS
+POSTING DATE _—DESCRIPTION AMOUNT
+TX TLR Transfer ‘ails
+TX TLR Transfer 35,000.00
+02/15
+TX TLR Transfer 14,000.00
+02/18 Online Banking Transfer Confi#:415ec6291 ; OPTIMUM TELECARE HEALTH, LLC a
+02/18 Online Banking Transfer Confif:415e06291 ; OPTIMUM TELECARE HEALTH, LLC Kusnon
+02/22 TX TLR Transfer 9 ,000.00
+Online Banking Transfer Conf#:415ec6291 ; OPTIMUM TELECARE HEALTH, LLC 60,000.00
+TX TLR Transfer 54,360.00
+
+241,540.00
+
+& 231 Valley Farms Street
+
+Santa Monica, CA 90403
+CITIZENS firstcitizensbank@domain.com STATEMENT OF ACCOUNT
+
+BANK
+
+Account Number; 111-234-567-890
+Statement Date: = mm/dd/yyyy Page 1 of 1
+Period Covered: mm/dd/yyyy to mm/dd/yyyy
+
+John Smith Opening Balance: 175,800.00
+2450 Courage St, STE 108 Total Credit Amount: 510,000.00
+Brownsville, TX 78521 Total Debit Amount: 94,000.00
+Closing Balance: 591,800.00
+<Branch Name> Account Type: Current Account
+Number of Transactions: 8
+Transactions
+Date Description Credit Debit Balance
+mm/dd/yyyy Payment - Credit Card 5,400.00 170,400.00
+mm/dd/yyyy Payment - Insurance 3,000.00 167,400.00
+mm/dd/yyyy Account Transfer In 500,000.00 667,400.00
+mm/dd/yyyy Cheque Deposite 10,000.00 677,400.00
+mm/dd/yyyy Payment - Electricity 1,500.00 675,900.00
+mm/dd/yyyy Payment - Water Utility 600,00 675,300.00
+mm/dd/yyyy Payment - Car Loan 3,500.00 671,800.00
+mm/dd/yyyy Account Transfer Out 80,000.00 591,800.00
+— End of Transactions -—-
+
+© SBI anywhere
+
+PERSONAL
+Ver 5.3.12
+
+€ Mini Statement {ty} ©
+
+Date / Remarks Amount
+
+28-FEB-2018 & 35.40 (Dr)
+
+Monthly Ave - Bal No
+
+25-FEB-2018 = 147.50 (Dr)
+
+DEBIT Annual Card FEE 2017-18 - 5196190179894243
+
+25-FEB-2018 = 147.50 (Dr)
+
+DEBIT Annual Card FEE 2017-18 - 6069860008278774
+
+JOSHUA NYAMWEYA OIGARA
+
+P.O BOX 30081, 60100 NAEROBI
+TEL: 29244939
+FAX: 26244939
+
+RRENT SHEET NO; 000040
+MONEY OUT MONEYIN LEDGER BAL
+
+5,190,$22.38
+3.00 $190,819.38
+30.00 5,190,789.38
+3,00 5,190,786.38
+30.0 ; 5,190,756.38
+3.00 5,190,753.38
+30.00 $190,723.38
+4,500,000.00 690,723,38
+33.00 5 690,690.38
+70,000.00 620,690.38
+3.00 620,687.38
+30.00 620,657.38
+33.00 620,624.38
+i}
+20,000,00 600,624.38
+yed AT-KCBHO DAILY ALI 27,390.00 628,014.38
+254706 sAlert 5:50 628,008.68
+oT T , . = S > ene
+se AT-DPC. AC-PL $5223 3.00 628,005.88
+3/2014 Mobi AT-DE BY Eng Charge 30.00 627,975.88
+VIS Debit AT-DPC 163 1304 163.1305 44,011.10 583,964.78
+Sard Payrnent AT-DPC 100,000.00 483,964.78
+350000129428/1012536281
+WN KCB Mobi Charge AT-DPC AC-PLS522) 3.00 485,961.78
+se 30,00 483,931.78
+
+JOSHUA NYAMWEYS. OIGARA
+
+P.O BOX 48400
+00100 NAIROBI
+
+- WO 1249449 pen
+
+*#* 1877.8026.1.11 ZZ258R3 0303 SL. R3.5957. D356.0 V06.00.25
+
+ConmonwealthBank oy
+
+Commonwealth Bank of Australia
+ABN 48 123 123 124 AFSL and Your Statement
+
+Australian credit license 234945
+
+Statement 10 (Page 1 of 1)
+
+Account Number 06 3167 10781391
+
+Statement Period 1 Jul 2018 - 30 Dec 2018
+
+MR R D GEE Closing Balance $401.22 CR
+14 STODA ST
+HEATHMONT VIC 3135 Enquiries 13 2221
+
+Smart Access
+
+Enjoy the convenience and security of withdrawing what you need, when you need it. Plus, you can have your
+monthly account fee waived if you deposit at least $2,000 each calendar month.
+
+Name:
+
+Note:
+
+Date
+01 Jul
+01 Jul
+
+02 Jul
+
+Jul
+
+02 Jul
+
+02 Jul
+
+03 Jul
+
+03 Jul
+
+03 Jul
+
+03 Jul
+
+03 Jul
+
+03 Jul
+
+ROBERT DAIEL GEE
+
+Have you checked your statement today? It's easy to find out more information about each of your
+transactions by logging on to the CommBank App or NetBank. Should you have any questions on fees
+or see an error please contact us on the details above. Cheque proceeds are available when cleared.
+
+Transaction Debit Credit Balance
+2018 OPENING BALANCE $1,384.89 CR
+
+DEBIT INTEREST CHARGED on this account
+to June 30. 2018 is SO.11
+
+Transfer to another Bank NetBank 372.00 $1,012.89 CR
+Rob Ubank Transfer
+
+Transfer from MCKAY MJ 43.80 51.384.89 CR
+Mick Mckay - Neck hackles.
+
+Direct Debit 000115 COLONIAL MUTUAL 25.00 $1.031.69 CR
+1200180874627741
+
+Loan Repayment 280.00 $751.69 CR
+LN REPAY694259331
+
+PETSTOCK HEATHMONT P HEATHMONT AUS 32.99 $718.70 CR
+Card xx4521
+Value Date: 01/07/2018
+
+WOOLWORTHS 3149 EASTLA RINGWOOD AUS 134.26 $584.44 CR
+Card xx4521
+Value Date: 01/07/2018
+
+HEATHMONT IGA HEATHMONT AUS 30.00 $554.44 CR
+Card xx4521
+Value Date: 30/06/2018
+
+POST HEATHMONT LPOHE HEATHMONT CA AUS 47.57 $506.87 CR
+Card xx4521
+Value Date: 29/06/2018
+
+FIVE STAR MUSIC PL RINGWOOD VI AUS 50.00 $456.87 CR
+Card xx4521
+Value Date: 28/06/2018
+
+POST HEATHMONT LPOHE HEATHMONT CA AUS 55.65 $401.22 CR
+Card xx4521
+Value Date: 28/06/2018
+
+TemplateLAB
+
+CENTRAL AVENYE tremor
+34, Chittaranjan Avenue Central Avenue
+Kolkata
+
+West Bengal
+700012
+
+Branch Code: 540 Phone No: 22123128
+
++ 554510034
+Q-GEN-PUB-METRO-INR,
+
+Account No.
+Product : SBCH
+> INR
+
+rrency
+
+BHARATIYA JANATA PARTY(W.B)
+6 MURALI DHAR SEN LANE
+
+39:41 E-mail:
+
+700073
+11/2016 to 08/11/2016 eeeeeees Time: ii
+75,07,817.29Cr 0.00 Page No-? 1
+0.00 Int. Rate = 4.00 % 9.a-
+
+s3,108.00cr |
+
+68,
+
+60,00, 000.00
+
+4, 08,53,109.29Cr
+
+BY CASH DEPOSIT
+Deposit by MR O P JHA
+i BY CASH DEPOSIT 49,00,900.00
+- ——Deposit hy MR O
+08/11/16 WDL TFR 5,00, 060.00 :
+AMBUJAKSHA MAHAN IDIBR52016110813497207
+To 98906000129
+0g/11/16 WoL TFR . 5.00 1,03,5
+ES 1pIBR52016110813497207 ae
+98,52, 984.29Cr
+
+TARIFF CHARG!
+ro 96181000124
+5,00, 060.00
+
+/11/16 08/11/16 WL TER
+
+Dt THANDRA BARM IDIBRS2016110013497227
+
+‘po 98996000129
+
+WoL TER 5.00 :
+
+ARIEF g§ IDIBR52016110813497227 BB YBa amin eceCe
+961
+
+og/1i/16 |
+1,03,53,049-29Cr
+
+08/11/16
+08/11/16
+
+19/11/16
+
+
+© SBI anywhere
+
+PERSONAL
+Ver 5.3.11
+€ Mini Statement {ty} ©C
+01-JAN-2018 = 5,000.00 (Cr)
+MAAO000860 BY TRANSFER INB
+IMPS800117398347/9494821060/XX6549/five thous
+31-DEC-2017 = 47.20 (Dr)
+Monthly Ave - Bal No
+25-DEC-2017 = 2.00 (Cr)
+CREDIT INTEREST
+30-NOV-2017 = 47.20 (Dr)
+Monthly Ave - Bal No
+31-OCT-2017 = 47.20 (Dr)
+Monthly Ave - Bal No
+30-SEP-2017 = 88.50 (Dr)
+Monthly Ave - Bal No
+25-SEP-2017 = 5.00 (Cr)
+CREDIT INTEREST
+31-AUG-2017 = 88.50 (Dr)
+Monthly Ave - Bal No
+29-AUG-2017 = 23.60 (Dr)
+
+TO TRANSFER INSUF BAL ATM DECLINE CHARGE-220817
+27-AUG-2017 = 23.60 (Dr)
+TO TRANSFER INSUF BAL ATM DECLINE CHARGE-220817
+
+SH woe S>S=|— AQ
+
+al’ Jio LTE 12:36 @t 45% a )
+‘@ Punjab National Bank
+
+isa ama aa punjab national bank
+
+Account Statement For Account:8753000100001933
+Account Name :BHOLA RAM MEENA S/O MURARI LAL MEENA
+
+Branch Details
+
+Bran apr: SIKRAL DISTT-DAUSA
+
+Bank. Aderess: SMT SAVITA MEENA.
+MAIN SIKRAL RD GRAN SI
+
+Cay AUSA
+
+Pre 305508
+
+IFSC Code PUNBOBTSS00
+
+Customer Details
+
+Castomen Name BHOLA RAM MEENA SID MURARI LAL MEENA.
+Cosornm Asien NIGHRIMPENA PATTI SIKRAL
+TEM SIKRA DISTT DAUSA
+Oly DAUBA
+Pn 05508
+Nominee : MUARI LAL MOREMA
+
+O1M82018 to
+
+Unless commluent nutfics the bark ouredheiety of ney cacreporcy loud Gy hie in Pig statement of
+
+Account, ¢ wil be taken Mat he has found the account comect
+
+“COMPUTER GENERATED ENTERES SHOWN IN THE STATEMENT OF ACCOUNT DO NOT REQUIRE ANY
+AUTHENTICATION / INITIAL FROM THE BANK OF FICIAL PLEASE OQ NOT ACCEPT ANY MANUAL ENTRY IN
+YOUR COMPUTER GENERATED STATEMENT OF ACCOUNT
+
+Page Not
+
+* PLEASE ENSURE THAT ALL THE CHEQUE LEAVES IN YOUR CUSTOOY ARE OUL¥ BRANDED WITH YOUR
+‘6 DIGITS ACCOUNT NUMBER
+
+* CUSTOMERS ARE REQUESTED IN THEIR GN INTEREST NOT TO ISSUE CHEQUES YATHOUT
+ADEQUATE CLEAR FUNDS ARRANGEMENTS. SUCH CHEQUES CAN BE RETURNED WITHOUT MAKING
+ANY FURTHER REFERENCE TO THEM,
+
+* PLEASE MAINTAIN MINIMUM AVERAGE BALANCE TO AVOID LEVY OF CHARGES.
+
+“Pls note Pond interest may be charged in inan accounts due tn friercisl mmc such as over
+
+(amings, non recegt of stall on Me rates prescremed Dy Bank from time to time and for non tnancal
+
+Feanons Hike non submission of QMS forms, non adherence to terms and corrditons etc
+
+Abbreviations are as under
+
+BR Branch Name . Cah Cash , Cig Ciewting 130: inter Solty
+
+(GAB Quarterty Average Balances LF Ong Lodper Folio Charges , ft Interest .Cteg Charges
+
+Rut-Reaming “Chg: Cheque . St: Staneing instruction . Ste Strt: Stock Statement . Trt: Transtar , POSP-POINT OF SALE
+
+y, POBox 218
+mutual bank oe
+‘Authored Tee os sie ss?
+rte wreftingtety NR Na MCRCES PSP Ne, 30067 pinecBbatert rch
+raw hemeAard co Te
+SGAMEKA PROJECTS (PTY) LTD 7“
+C/O B.A. SHIVAMBU
+14349 BRAAMFISCHER
+EXTENSION 10
+ao PRODUCT CLASSIC BUSINESS
+ACCOUNT NUMBER 010082048001
+OATE 2017098
+Statement for the period 2017/03/01 to 2017/09/19
+[DATs [pescnrnon. Sd [CRETE BALANCE
+. 2017/06/08 Trt from 10070139002 0.00 6000 000.90 6000 000.00"
+(_2ot7esme NAHUNA INVESTMENTS -600 000.00 6.00 «480000000
+17006/13 Feo-Internot RTC Withdrw - 65.00 0.00 4469 645.00
+2017/06/13 RTC-GA 400 000.00 0.00 4059 945.00
+2017/08/21 MAHUMA 1009 000.00 0.60 069 945.00
+2017/08/22 Fee-internel RTC Withdnw - 65.00 0.00 9099 890.60
+2017/06/22 RTC-GRAND AZANIA ~800 000.00 0.00 2569 890.90
+2017/06/30 Fee-Administration + 58.00 0.09 2899 836.00
+2017/0630 {nt Earned 9.09 4391.02 2004 226.02
+201707708 WESBANK -388 078.17 0.00 2216 147.85
+2017/07/07 ves -6000.00 0.09 2210 147.85
+2017/0707 MAHUNA 1000 000.00 0.06 1210 147.85
+2017/0708 Fee-Iniomet RTC Withdrw + 55,00 0.09 1210 092.85
+2017078 RTC-GA +60 000.00 0.00 1160 032.85 FS
+20170709 Fas-internet RTC Withdrw 85,00 0.00 1160 037.65
+2017007109 RTC-VBS 500.00 0.00 1149 537.85
+2017/0710 GRAND AZANIA -600 000.00 0.00 649 537.85
+2017077 MC CARTHY BURCHMORE"S CAR AUC ~185 980.00 0.00 363 667.25
+201707R7 Fee-in'emet RTC Withdrw + 65.00 0.60 363 532.85
+2017/07/27 RTC-VBS 8 000.00 0.00 358 53285
+4707/28 Trt from 10070129002 020 4000 000.00 1358 £32.85
+7/0728 Fee-Txn Noblfy - SMS -0.40 0.00 1358 632.45
+2017/07/28 Fee-intemet RTC Withdrw + 55.00 0.00 1358 477.46
+2017/07/28 RTC-Eyadini +100 000,00 0.00 4258 477.45
+2017/07/28 Foe-Intormet RTC Withdrw ~ 85.00 - 0.00 1258 472.48
+2017007728 RIC-EFF -400 000.00 0.00 888 422.45
+2017/07/28 ves +2:000.00 0.00 858 422.45
+2017007131 Foo-Intornet RTC Withdew 55.00 0.00 856 367.45
+201707131 RTC-EFF Donation +200 000.00 Le] $56 387.45
+2017107131 Fee-Adminisiration + 55.00 0.00 656 312.45
+20170781 Int Earned 0.00 1429.43 657 741.88
+20171082 Fee-Internet RTC Withdrw ~ 65.00 0,00 657 686.86
+201710802 ATC-ISH =200 000.00 0,00 487 688.88
+2017108103 SURE GULLIVERS +59 074,00 0,00 398. 612.88
+2017/0803 Fae-Internet RTC Withdrw ~ 55,00 0.00 308 557.88
+Page 1 of 2
+
+fatwa Bank Directors: T, Matods (Chaltperson), BL. Meponguena (Deputy Chalperton} AJA. A amavhunge (CEO) P.M, Tewter (CFO), PA, Ramikos) 1.N. Mudew
+MW, Muvtulowa, 7.2. Nesens, PN. Magule, MY, Hevhuhul, M Manesda,
+
+2 wall
+
+TA, Romawa, Compeny Secretary: P.M, Truter
+
+6 ormnage RA SO) G00
+rod
+
+, a? See
+
+©SBI
+
+Account Name : Mr. SIVANANDA MARUTHI BHARGAVA DATTU VEERUBH
+
+Address : # 23-28-61, CHALLAPALLIVARI STREET
+SATYANARAYANAPURAM
+VIJAYAWADA-520011
+Krishna
+
+Date 4 Jul 2019
+
+Account Number : 0000003385 1228740
+
+Account Description : REGULAR SB NCHQ-INDIVIDUALS
+
+Branch : SATYANARAYANAPURAM
+
+Drawing Power + 0.00
+
+Interest Rate(% p.a.) 23.8
+
+MOD Balance : 0.00
+
+CIF No. : 87412695602
+
+IFS Code : SBINO003001
+
+MICR Code :§20002012
+
+Nomination Registered : Yes
+
+Balance as on 1 Jul 2019 + 9,923.52
+
+Account Statement from 1 Jul 2019 to 4 Jul 2019
+
+Txn Date |Value Description Ref No./Cheque Debit Credit Balance
+Date No.
+
+1 Jul 2019] 1 Jul 2019|/BY TRANSFER- 20,000.00 29,923.52
+UPI/CR/918219892534/ADIVI
+RAVANDB/adiviravit/UPI-
+
+1 Jul 2019] 1 Jul 2019]/TO TRANSFER- 20,000.00 9,923.52
+UPI/DR/918219089024/ADIVI
+RA/ANDB/adiviravit/1 -
+
+4 Jul 2019] 1 Jul 2019}TO TRANSFER- 6,000.00 3,923.52
+
+UPI/DR/918221768895/VEERU
+BHO/NA/dattuv @ pay/rbl-
+
+2 Jul 2019) 2 Jul 2019)BY TRANSFER- 10,600.00 14,523.52
+UPI/CR/918340367249/VEERU
+BHO/FORUhelpdattu@/Payme-
+
+3 Jul 2019] 3 Jul 2019] ATM WDL-ATM CASH 91841 1,000.00 13,523.52
+PONNUR GUNTUR-
+
+Please do not share your ATM, Debit/Credit card number, PIN and OTP with anyone over mail, SMS, phone call or any other
+media. Bank never asks for such information.
+
+“*This is a computer generated statement and does not require a signature.
+
+
+rawford
+
+| [/iCrawfordTech Bank Statement Sample
+
+- = For of Mar 15, 2010 to 18, 2010
+Mary Jane wnt?) period Apr
+
+100 Pine Street
+Metro, AA 09371
+
+Account Summary (5)
+
+Opening Satance $5,234.09
+Wirndrawais 2.335.657
+Deposits $2872.45
+Closing Balance on Apr 18, 2010 $5,710.87
+
+Scan fs QR code with your Smartgnone
+
+You are eligible for a $100 bonus
+T9.8nd out more about 2 High imerest
+Savings Accoum — win ihe first $100
+
+BAe
+RE :
+Deposit on us! OF Y
+
+‘You may ceed to ge « OF Goce cesce fom yoo Goecttepe Acc Siow
+
+Agr 13 Si payment 135.07
+Agr 14 Direct dent 200.00
+Agr 14 Deposit
+
+Agr 15 Si payment 525.72
+Agr 17 5a paymemt 327.63
+Agr 17 5a payment 729.95
+Agr 18 Si payment 223.69
+
+00-123456
+Branch Transit Number
+oss76s
+
+contact intormation (2. }
+
+4-800-222-0123
+Contact us by phone for questions, on iis
+
+stzlament, change of personal Information, and
+general inquiries, 24 nours a day, 7 days a weak
+
+TTY for the hearing Impaired:
+1-800-123-0007
+
+7521.47
+7,321.47
+TT ST
+7,042.15
+6714.52
+
+5,710.87
+
+CIBC
+a
+
+CIBC Account Statement
+
+MR JOHN DOE
+
+The names shown are based on our current records, as of February 17,
+2021. This statement does not reflect any changes in account holders and
+
+account holder names that may have occurred prior to this date.
+
+& Bankstatements.net
+
+For Jan 1 to Jan 31, 2021
+
+Account number
+123456789
+
+Branch transit number:
+00011
+
+Account summary Contact information
+Opening balance on Jan 1, 2021 $35.00 @ 1800 465 CIBC (2422)
+Withdrawals # 6,320.92 Sapeee by phone ot ee
+uj ie, change of persona!
+Deposits i 6,345.00 information, and general inquiries,
+Closing balance on Jan 31, 2021 = $59.08 24 hours a day, 7 days a week.
+TTY hearing impaired
+1 800 465 7401
+Outside Canada and the U.S.
+1 902 420 CIBC (2422)
+www.cibc.com
+Transaction details
+Date Desc Withdrawals (3) $) Balance (S$)
+Jan1 Opening balance $35.00
+Jan 4 E-TRANSFER 103301687272 6.00 29.00
+RETAIL PURCHASE 000001001755 8.43 20.57
+WALMART STORE #
+RETAIL PURCHASE 000001001756 12.29 8.28
+WALMART STORE #
+* CREDIT MEMO 5,985.00 __ 5,993.28
+* ATM DEPOSIT 350.00 6,343.28
+KINGSWAY + MCKERCHER _1G0V :
+RETAIL PURCHASE 365001001084 33.30 6,309.98
+T T SUPERMARKET
+Jan § E-TRANSFER 103305552267 1,470.00 4,839.98
+tyrmx a ee
+INTERNET BILL PAY 000000268582 3,300.00 1,539.98
+_ ALEXANDER COLLEGE
+VISA DEBIT RETAIL PURCHASE 126.90 1,413.08
+ROGERS ‘*** 100532235275
+
+Page 1 of 4
+
+Sees 3 of
+
+
+Accouet Number: 0000000000
+Routing number, 000000000
+Statement Date: 12/19/2021
+Period Covered: 11/18/2021 to 12/19/2021
+
+Business name
+Address, state, City, Zip code
+
+Date Description
+
+11/18/2021 Payment - Credit Card
+
+11/18/2021 Credit Card Purchase AlS899
+
+11/18/2021 Account Transfer
+
+12/19/2021 Auto overdraft transfer account
+
+11/19/2021 Zelbe Business PYMT
+
+11/21/2021 Payment - Water Utility Bill
+
+11/25/2021 Payment » Car Loan PYMT
+
+11/25/2021 Account Transter Out
+
+11/26/2021 Detit Card Purchase A1485
+
+11/27/2021 Debit Card Purchase
+
+11/27/2021 Payments WePay
+
+11/30/2021 Payments WePay
+
+12/01/2021 Transaction 1025888 703,694 84
+
+12/07/2021 Counter Deposit 718,694.84
+
+12/09/2021 Epay PYM AMZ 2258 723,594.68
+
+32/03/2021 Detit Card Purchase 706,894.67
+
+42/33/2021 Debit Card Purchase 695,894.67
+
+12/31/2021 Debit Card Purchase 682,393.77
+
+12/31/2021 Deposit 02/12/2020 45,500.00 727,893.77
+
+12/11/2021 Zelle Business PYMT 02/11/2020 723,893.77
+
+12/12/2021 Zetle Business PYMT 02/12/2020 719,948.72
+
+12/12/2021 Transfer To 225852 31,600.00 719,948.72
+Transfer From checking BSSS70S 13,900.03 765,448.75
+Transfer From checking 822505D 153,153.25 918,602.00
+Debit Card Online Purchase 908,988.00
+Transfer From Checking 14,360.16 923,348.06
+
+
+Contact te! +44(0)207 930 4450
+@ ata bt onic
+Ban
+ot Con
+
+Mr John Doe a” e, Account Name: Mr John Boe
+20 Sherwood St, 2 (5) a TBAN: GB64SRLGE0000012345678
+London F} : BIC: SRLGGGOL
+W1F 7ED “, Starling - Sort code: 1234-56-78
+> Bank © Account Number: 87654321
+
+February 2021 Statement
+
+“ »
+“o> 9s*
+
+Your deposit is eligible for protection by the Financial Services
+
+Compensation Scheme,
+01/02/2021 - 28/02/2021
+END OF DAY
+DATE TYPE TRANSACTION IN OUT ACCOUNT
+BALANCE
+OPENING BALANCE £594.58
+01/02/2021 DEPOSIT INTEREST Starling Bank (January Interest Earned) £0.01
+01/02/2028 SAMSUNG PAY Central £7.32
+01/02/2021 FASTER PAYMENT Muhammed Tayyab (From M Tayyab) £2.27 £585.00
+02/02/2021 ONLINE PAYMENT Acemoneytransfer £140.00
+02/02/2021 SAMSUNG PAY Sumup *ace Ringway £6.00
+02/02/2021 FASTER PAYMENT Muhammad Talha (From M Tayyab) £7.00 £432.00
+03/02/2021 FASTER PAYMENT Muhammad Tayyab (friend) £25.00 £457.00
+04/02/2021 SAMSUNG PAY SPAR £21.83 £435.17
+05/02/2021 SAMSUNG PAY Selekt Chicken Slough Slough £4.98
+05/02/2023 FASTER PAYMENT Muhammad Talha (Paid with Starting) £10.00 £420,419
+07/02/2021 FASTER PAYMENT Muhanmed Tayyab (From M Tayyad) £1.19 £419,00
+08/02/2021 FASTER PAYMENT Muhammad Tayyab (brother) £5.00 £424,00
+09/02/2021 SAMSUNG PAY SPAR £4.83 £419.17
+10/02/2021 FASTER PAYMENT Muhammad Tayyab (FRIEND) £85.00
+10/02/2021 FASTER PAYMENT Muhammad Tayyab (From M Tayyab) £85.00 £419,17
+16/02/2021 FASTER PAYMENT Muhammad Tayyab (From M Tayyab) £0.17 £419.00
+18/02/2021 SAMSUNG PAY One Below £14.14
+18/02/2021 CASH DEPOSIT Post Office Banking Services (Cash Deposit) £300.00
+18/02/2021 FASTER PAYMENT D Singh (From M Tayyab) £2.86 £702.00
+19/02/2021 ONLINE PAYMENT Acemoneytransfer £683.00 £19,00
+20/02/2021 FASTER PAYMENT Muhammad Tayyab (BROTHER) £1,00
+20/02/2021 FASTER PAYMENT Muhammad Talha (Sent from Revolut) £2.00 £22.00
+22/02/2021 ONLINE PAYMENT giffgatt £20.00 £2.00
+25/02/2021 FASTER PAYMENT Muhammad Tayyab (Sent from Revolut) £1075,00 £1077.00
+26/02/2021 SAMSUNG PAY Central £2,00
+26/02/2021 SAMSUNG PAY Mcdonalds £2.68
+26/02/2021 FASTER PAYMENT Ammad Qaisar (From M Tayyab) £20.
+26/02/2021 FASTER PAYMENT Ammiad Qaisar (From M Tayyab) £70.00
+26/02/2021 FASTER PAYMENT Muhammad Tayyab (Sent from Revolut) £70.00 £1052.32
+28/02/2021 FASTER PAYMENT Muhammad Talha (From talha} £28.00 £1080.32
+Interest will be payable to you each day your Date range applicable: 01/02/2021 - 28/02/2021
+Account Is in credit, We charge interest each Interest rate paid AER Interest rate charged APR
+day you are overdrawn, We calculate interest on Account Balance Variable on Account Balance Variable
+on your end of day account balance. £0.00 - £85000 0.05% Less than £0 15.00%
+
+For further information about our interest
+rates, refer to www.starlingbank.com/legal
+
+‘Staring Bank is registered in Englaed and Wales as Starling Back Limited (No. 09092149), Sra Ficer, 2 Finsbury Avenue, London, EC2IM 2PP.
+We are authorised Dy the Pradential Ragulatian Authonty and regutated by the Financial Conduct Aethority arxi the Prudential Regulation Authority uncer ragestranan umber
+730166.
+
+Gur tees and conditions can be accessed via the Starling app or Dy cur wubsite wwe start:
+Compensation
+
+nghane comyiegal
+Starting Bank Limited ss @ member of the Financial Services: Scheme and the Foeancial Ombudsman Seruoe
+For further infunmation about the compensation provided by the FSCS. refer to the FSCS wabette at www fecs.org,uk
+
+apm
+
+wu, ZUZ1 © Pagezors
+
+Transaction history
+Check Deposits’ Withdrawals’ Ending davy
+Cate Number Descnpbon Addons Subtractions batance
+43 Money Transfer authorzed on 02/03 From Amazon 213.22
+300301030 146246280 Card 2158
+43 Purchase authorined on 02/01 Burger King #7700 Douglas FL 124.02
+$301031 108501733 Card 2158
+43 Purchase auorized on 02/01 Family Dotar #
+0000000037946 1372 Card 2158 174.98
+43 athonzed on 0201 Taco Bet if 8536 3,724.43
+$201030147727371 Card 2158
+on yreonna 1
+CA $38 1030673036 1 112.15 3,612.28
+Chase authorized on 1 x L 70.28
+$46 1030770637565 Card 2158
+45 Purchase authorized on 02/01 Cash App"Latoys 8774174551 FL 9621
+$30 1030820905447 Card 2158
+4s Purchase authonzed on 02/01 Cash App"Devonte 8774174551 140.00 3,303.79
+
+FL $461031000464617 Card 2164
+
+Electronic Statement
+
+Statement Period
+“lg 03 March 2021 - 01 April 2021
+
+Westpac Choice ="
+John Peter
+Customer ID
+
+ABC 2555 8730
+
+xYZ sT
+
+BALACLAVA VIC 3183 BSB Account Number
+0321-146 4427594903
+Opening Balance + $ 130.78
+Total Credits + $1,020.00
+Total Debits - $847.01
+Closing Balance + $303.77
+
+Tax File Number/Australian Business Number Information: Tax File Numbers or Australian
+Business Numbers are not held and Pay As You Go withholding tax may be deducted from interest.
+
+TRANSACTIONS
+
+Please check all entnes on this statement and promptly inform Westpac of any possible error or unauthorised transaction
+
+DATE TRANSACTION DESCRIPTION DEBIT CREDIT BALANCE
+03/03/21 STATEMENT OPENING BALANCE 130.78
+26/03/21 Deposit Tipu Ismail transter 200.00 338.78
+
+26/03/21 Debit Card Purchase Mightytext Santa Clara
+Usa Usd 9.99 incl. Westpac Foreign
+
+Transaction Fee Aud $0.39 13.60 317.18
+26/03/21 Debit Card Purchase Coles Mobile Sydney Aus 20,00 297.18
+26/03/21 Debit Card Purchase Airtasker* 8442054X
+
+Sydney Aus 73.45 223.73
+20/03/21 Deposit Civica Bpo 00336 Deposit-Salary 320.00 543.73
+29/03/21 Debit Card Purchase Vicroads Online Paymen
+
+Kew Aus 24.73 519.00
+28/03/21 Debit Card Purchase Airtasker* 8467549X
+
+Sydney Aus 84.75 434.25
+30/03/21 — Deposit-Osko Payment 2798167 Mr Tipu Ismail
+
+Deposit-Salary 200.00 634.25
+30/03/21 Debit Card Purchase Airtasker* 8451721X
+
+Sydney Aus 10.00 624.25
+wOM21 ~—— Debit Card Purchase Ezi*commercial Credit
+
+Brisbane Aus 20.81 603.44
+30/0321 = Debit Card Purchase Airtasker* 8474033X
+
+Sydney Aus 79.10 §24M64
+
+Wertpac Banking Corparation ABN 33 007 457 141 AFSL and Austratien crodit liconom 233714 Statement No. 53 Page 1 of 3
+
+& BankStatements.net
+
+PB? Trin Your RBC personal banking
+RBC ‘oronto ON MSWIL5S
+account statement
+
+From April 2, 2019 to May 2, 2019
+
+RBPDA10020_2625390_041 E D 002 02064 00147
+Mr. John D
+
+pee Giissh a w, Your account number: 123456789
+Toronto, ON : 4 ® 4.
+MSV 2A7 How to reach us: 1-800 ROYAL® 1-1
+
+(1-800-769-2511)
+www.rbcroyalbank.com/deposits
+
+Summary of your account for this period
+RBC Day to Day Banking™ 02064-123456789
+
+Royal Bank of Canada
+11805 BRAMALEA RD, BRAMPTON, ON L6R 389
+
+Your opening balance on April 2, 2019 $5,575.83
+
+6
+
+Total withdrawals from your account - 8,139.80
+
+Your closing balance on May 2, 2019 = $1,699.34
+
+Details of your account activity
+
+Date Description Withdrawals ($) Deposits ($) Balance ($)
+
+_Opening Balance
+e-Transfer - Autodeposit _ .
+
+5,575.83
+
+g paym
+soo BE MASTERCARD.
+
+VISA TD BANK
+
+Interac purchase - 0771 PHOENIX PHARMAC
+Contactless Interac purchase - 6768
+
+5 Apr e-Transfer - Autodeposit ~ 125.00 5,630.00
+
+| ig paym'
+ee eA ce eee eeemermneneemernenteeneen Oe cee
+Online Banking payment - 2850
+VISA TD BANK 500.00
+Online Banking payment - 3022
+VISA CIBC 200
+
+RBPDA10020_2625390_041 - 0199447 HRI- 00 -2- 171-10-
+
+10f4
+
+qwloarcia ae (67) union Bank
+
+Account statement through Internet Banking
+Date ranging from 01/04/2017 to 30/06/2017
+
+Account Name: INDIRA SAPARE
+
+AddressLine1: PLOT NO 23 RENUKA HOUSING SOCIETY
+
+AddressLine2: YASHODA NAGAR HINGNA
+
+City: NAGPUR Branch Name: GOKULPETH, NAGPUR
+
+State: MAHARASHTRA Country: IN PinCode: 440036 Statement Date; Thu Apr 19 21:15:25 IST 2018
+Mobile: 917387082495 Phone:
+
+eMail: chrishna_sapare@gmail.com
+
+09-20 o 03-20
+$2672825 | 04/04/2017 = PEN. MAR-17 LESS TDS-0 SEA [itl insacane 117,653.87
+
+$3574786 | 05/04/2017 IMPSAR/709509007499/SBI 30,000.00 | 87,653.87
+N0011666/35553540356
+$26260284) 17/04/2017 NEFT:PREMLAL PANDEY Sender 5,000.00 | 92,653.87
+lo:N107170276096)
+927
+'S$63666134) 04/05/2017 IMPSAR/712408223312/SBI 20,000.00 | 72,653.87
+N0011666/35553540356
+
+368716217] 06/05/2017 =" PEN, APR-17 LESS TDS=0 aa he i! 50,306.00 |122,959.87
+
+'S74194660] 09/05/2017 IMPSAR/7 12909264690/SBI 10,000.
+N0011666/35553540356
+IMPSAR/713109281063/SBI
+N0011666/35553540356
+IMPSAR‘713510309454/SBI
+N0011666/35553540356
+4213683498 103264/7 13516
+008719/349802030032344
+NEFT:PREMLAL PANDEY Se
+
+INo:N137170295201
+PEN. MAY-17 LESS TDS=0
+
+IMPSAR/7 15409452485/SB)
+N0011666/35553540356
+
+8
+S
+o
+3
+g
+
+$85929907] 15/05/2017 =i
+33139355
+
+3
+3
+3
+3
+3
+@
+
+$78153615) 11/05/2017
+
+&
+i
+
+10,000.00 | 92,959.87
+
+00 | 82,959.87
+
+3
+3
+
+32,959.87
+
+5,000.00 | 37,959.87
+
+af
+:
+
+§
+
+57,673.00 | 95,632.87
+
+20,000.00 | 75,632.87
+
+10,000.00 | 65,632.87
+
+5,000.00 | 70,632.87
+
+LEE EELEEEE
+:
+8
+
+
+GUARANTY TRUST BANK PLC |_|
+
+CUSTOMER STATEMENT GTBank
+CUSTOMER NAME Guaranty Trust Bonk pie
+RC 152321
+Print Date: 16/Mar/2017
+Address: HOUSE 33 ECWA CHURCH STREET MALLAM WNA
+Account No: 012345678 - (621/916432/1/13/0)
+Currency :Naira
+Period: 01/Mar/2017 To 16/Mar/2017
+Opening Balance: 3,039.82
+Trans Date Reference Value Date Debit Credit Balance Remarks
+
+TRANSFER BETWEEN CUSTOMERS
+000016170301074834000150646887
+
+O1-Mar-2017 0 01-Mar-2017 5,000.00 8,039.82 FBNMOBILE:MOHAMMED MUSA HASKE/LIBRACIN
+636239513140470886 OGUMGBU CHETACHI SIXTUS
+to MOHAMMED MUSA HASKE
+
+HH WI AT™ 14273- -
+01-Mar-2017 3320004273. O1-Mar-2017 5,000.00 BE en ibea=ihtg' lis psec aa
+
+CASH WITHDRAWAL FROM OUR ATM -001885- -
+GTBank Jengre Road JOS 1 PLNG
+
+ATM/POS ACOUNT TO ACCOUNT TRANSFER -812087--
+000027102422;Acct Trsf:musaMohammedhaske
+
+NIBSS Instant Payment Outward
+000033170306144649000009994924 USSD NIP
+
+06-Mar-2017 0 06-Mar-2017 10,000.00 10,039.82 transfer from : 07034433706 TO ACCESS/TANSI
+ITAMAN REF:000013170306144649000009994924
+
+COMMISSION 000013170306144649000009994924
+USSD NIP Transfer from : 07034433706 TO
+
+03-Mar-2017 3310001885 03-Mar-2017 3,000.00 39.82
+
+06-Mar-2017 9999812087 06-Mar-2017 20,000.00 20,039.82
+
+06-Mar-2017 0 06-Mar-2017 100.00 9,939.82 ACCESS/TANSI ITAMAN
+REF:000013170306144649000009994924
+06-Mar-2017. 06-Mar-2017 5.00 9,934.82 VALUE ADDED TAX USSD NIP Transfer from : 0703
+WEB ASE TRANSACTION ~ is
+08-Mar-2017 9999008430 07-Mar-2017 9,800.00 Ma eee
+FASTTRACK CASH DEPOSIT PINPAD-42220045-
+08-Mar-2017. 08-Mar-2017 35,000.00 35,134.82 332/8788 CASH DEPOSIT BY MOHAMMED MUSA
+
+HASKE 000636245691498822226338096987
+NIBSS Instant Payment Outward
+000013170309113623000010650577 TO
+09-Mar-2017 0 09-Mar-2017 7,000.00 28,134.82 Fe CHUKWLALUKA ILIEMENE
+REF:000013170309113623000010650577
+
+COMMISSION 000013170309113623000010650577
+
+09-Mar-2017 0 09-Mar-2017 100.00 28,034.82 TO FB/CHUKWUALUKA ILIEMENE
+REF:000013170309113623000010650577
+09-Mar-2017 0 09-Mar-2017 5.00 28,029.82 VALUE ADDED TAX TO FB/CHUKWUALUKA ILIEMENE
+
+NIBSS Instant Payment Outward
+000013170310063946000010750550 Smartzee
+
+10-Mar-2017 0 10-Mar-2017 26,770.00 1,259.82 (1.aske006@gmail.com) TO STERLING/ADESIYAN.COM
+LIMITED REF:000013170310063946000010750550
+
+COMMISSION 000013170310063946000010750550
+Smartzee (haske0O06@gmail.com) TO
+
+10-Mar-2017 0 10-Mar-2017 100.00 1,159.82 TERLING/ADESIVAN.COM LIMITED
+REF:000013170310063946000010750550
+10-Mar-2017. oo 10-Mar-2017 5.00 1,154.82 VALUE ADDED TAX Smartzee (haske006@gmail.com)
+POS/WEB PURCHASE TRANSACTION -023992- -
+10-Mar-2017 9999023992 10-Mar-2017 1,000.00 154,82 pre vtulocd www.nairabet.LANG
+13-Mar-2017 9999009251 13-Mar-2017 10,000.00 10,154.82 FUNDS TRANSFER -009251- -FCMB Jos Br Jos PLNG
+TRANSFER BETWEEN CUSTOMERS via Internet
+13-Mar-2017 0 13-Mar-2017 10,000.00 154.82 Banking from MOHAMMED MUSA HASKE to SUNDAY
+CHUKWUDI VICTOR
+20,154.82 ATM/POS ACOUNT TO ACCOUNT TRANSFER -978298--
+13-Mar-2017: 9999978298 13-Mar-2017 20,000.00 154-82 499927366089;Acct Trsf:
+
+NIBSS Instant Payment Outward
+154.82 000013170312195807000011199244 Musa M haske
+13-Mar-2017 0 13-Mar-2017 20,000.00 -82 To OBN/NWANERI ANGUS NNAMDI
+
+REF:000013170312195807000011199244
+
+SESHA PHANI D
+
+yO AXIS BANK
+
+D NO 7/325 HOLMASPETA PRODDATUR
+
+PRODDATUR Customer No 836557825
+
+ANDHRA PRADESH Scheme :SALARY POWER PREMIUM
+516361 Currency :-INR
+
+Statement of Account No :910010041701828 for the period (From : 01-07-2011 To : 31-07-2011)
+
+ae ee a
+a onan er ee
+05-07-2011 220VHYDERABAD-1/0S0711 327
+(07-07-2011 4
+ou] eae —_———"
+11-07-2011 SRST STE 327
+ATM/MAITRIV ANAM COMMLILEX
+12-07-2011 YDERABADIIIUTT|
+
+9911.00] 327
+
+CASH.-. TA BANK OF
+eer 2071
+
+CASH-ATM/ICICI
+BANKW/HYDERABAD/120711 327
+
+CASH-ATM/SBI
+
+18-07-2011 GOWLIGUDA.HYD/HYDERABAD/170711 327
+
+2
+
+18-07-2011 BRANCH/KURNOOL/180711 327
+PUR/TRINETHRA SUPER
+
+18-07-2011 M/HYDERABAD/180711/19:35 762,00 4849.00] 327
+
+19-07-2011 MOHAN RAJU 849.00] 327
+CASH-ATM/SBH_ SBH-
+
+19-07-2011 YEMMIGANU/YEMMIGANUR/190711 327
+cts ATMI/SBI AS APUR
+
+20-07-2011 ANATHAPUR/2007 11 327
+
+a ee rate
+evo nan el
+
+Unless the constituent notifies the bank immediately of any discrepancy found by him/her in this statement of Account, it will be taken that
+he/she has found the account correct.
+
+The closing balance as shown/displayed includes not oaly the credit balance and / or overdraft limit, but also funds which are under clearing. It
+excludes the amount marked as lien, if any. Hence the closing balance displayed may not be the effective available balance. For any further
+clarifications, please contact the Branch.
+
+We would like to reiterate that, as a y. Axis Bank does not ask you to part with/disclose/revalidate of your iConnect passord.login id and
+debit card number through emails OR phone call Further, we would like to reiterate that Axis Bank shall not be liable for any losses arising
+from you sharing/disclosing of your login Lemer password and debit card number to anyone. Please co-operate by forwarding all such
+suspicious/spam emails, if received by you, to customer.service@ axisbank.com
+
+12-07-2011 5911.00} 327
+
+12-07-2011
+
+EEE EEE
+
+nm
+L tt
+
+
+VIVEK KUMAR SINGH
+
+he AXIS BANK
+Joint Holder :- -
+
+S/O PRAMESHWAR SINGH, PO. SINGHANI
+PS. JARAMUNDI, KESHRI,
+JARMUNDI S.O, DUMKA.-
+
+DUMKA Customer No :892143917
+JHARKHAND-INDIA Scheme :SAVINGS BANK - SALARY A/C
+Si4141 Currency INR
+
+Statement of Axis Account No :919010061861194 for the period (From : 01-10-2021 To : 13-01-2022)
+
+SS SS
+
+OPENING BALANCE | mw
+
+(01-10-2021 2021 1.00] 241
+NEFT/N2792101 12976809/A K
+
+06-10-2021 MANPO/KARUR VYS 8752.00 8753.00
+UPI/P2.A/128081 11081 1/Bank Acco/State
+
+(07-10-2021 BanPayment 7753.00} 241
+
+UPV/P2A/128190304402/Bank Acco/State hl,
+
+Ban/Payment 4753.00] 241
+
+3753.00] 241
+
+UPI/P2.A/128137296985/Bank Acco/State | anonian
+Ban/Payment
+
+3746.00] 241
+
+241
+
+PERE EERE
+
+0.2021
+
+08-10-2021
+8-10-2002
+10.202
+
+ECOM PUR/Dream! /MUMBAI(08 1021/19:22
+ECOM PUR/Dream 11/Bangalore/081021/19:24
+
+UPV/P2A/128354630747/SONU KUMA/CICL
+Ban/Payment
+
+UPU/P2A/128316741813/RAJU KUMA/Union
+Ban/raju
+
+UPV/P2A/128383449334/Bank Acco/Union
+Ban/Payment 2340.00
+
+10-2021
+
+10-10-2021
+
+10-2021
+
+[ey
+>
+
+nd
+>
+
+12-10-2021
+
+to
+>
+
+UPI/P2M/128533578453/Dream | 1/YesBank_Y/P
+UPU/P2M/128638844593/RELIANCE
+/Citibank/JIO20BRO
+UPI/P2A/128744826693/Bank Acco/State
+Ban/Payment
+
+UPI/P2A/128879454450/Sulena D/State
+Ban/Payment
+
+UPI/P2M/128846684387/SPORTA TE/Kotak re Fi
+Mah/Payment 229.00] 241
+Mah/Payment 27.00 202.00] 241
+19-10-2021 ayment 241
+
+24-10-2021] GST @ 18% on Charge a 163.56
+24-10-2021] | Consolidated Charges for Ave ee
+
+Fs NEFT/N306210118830845/A K f
+
+02-11-2021 MANPO/KARUR VYS 248
+ATM-CASH-
+
+03-11-2021 AXIS/DPCN211303/3661/031121/ALWAR 3000,00 8636.00} 241
+UPI/P2A/130832239564/RAJU KUMA/Union
+
+04-11-2021 Ban/Payment 241
+
+4-11-2021 Ban/Payment $585.00] 241
+Ban/Payment 49.00 8536.00] 241
+Ban/Ujjwel 4536.00] 241
+
+04-11-2021 ayment 23,00 4513.00} 241
+
+13-10-2021 24
+
+14-10-2021 242 241
+
+15-10-2021
+
+15-10-2021
+
+18-10-2021
+
+L__|
+ATM-CASH-
+11-10-2021 AXIS/DPCN211303/9886/11 LO2VALWAR
+
+
+sta agaa aa punjab national bank
+
+Branch Details
+
+Branch Name: | MUZAFFARPUR,MDDM COLLEGE
+Branch Address: MDDM COLLEGE CLUB RD.
+
+City: MUZAF
+
+Pin: 842002
+
+IFCS Code: PUNBO251800
+
+Customer Details
+
+Customer Name: ABDUL RAHMAN
+
+Customer Address: S 0 MD ASRAF ALI. SADPURA.NEAR BAR| MASJID.PO-RAMNA
+City: MUZAFFARPUR
+
+Pin: 842002
+
+Nominee: MD ASRAF
+
+Statement of Account: 2518XXXXXXXX0946 For Period: 26/9/2019 to 25/12/2019
+
+arzaaa] ——_fezeie [or [sense [zvezsseocretnasoonerost |
+
+jzmanmre| [25000 Jor fosa7e | UPY/E351 13025907 /PZV/eenteapchoden @yel/ SANDEE
+
+12/12/2019 P| 3500.00 [DR 273.78 | ATM WDR 934616013196 +SINGHAL TOWER LABOUR
+12/12/2019 750.00 [DR | 3,773.78 | IMPS-OUT/934616239787/SBIN0010352/38160497052
+
+20000 ce | 4523.78 | UPl/934664173747/P2V/singhsonal1 1 @ybl/Mr SONAL
+uit uaNeatar 02809/P2V/8860631005@ybl/MOHHAMMAD
+
+78
+4.00 | 233.78 | 2518001500010946:Int.Pd:01-09-2019 to 30-11-2019
+78
+7
+
+12/12/2019
+
+11/12/2019
+
+UP1/933884521318/P2M/IRCTCINAPP@ybi/IRCTC
+
+ee
+
+ox
+froco Jo [mer [sags nemmeeravrewrensseniw ns
+os
+
+oe
+
+jon |
+
+04/12/2019
+
+21/11/2019
+15/11/2019
+13/11/2019
+
+227.97 | APBS REVRSAL DTD 01-06-2018
+ATM WDR 931919032498 +SINGHAL TOWER LABOUR
+2,468.22 | 21BZ3SBIOC Ref No3000072841
+
+2000.00
+11.57
+
+—l
+—
+—
+oo
+
+
+CHASE &
+
+1
+JPMorgan Chase Bank, N.A. October 01, 2019 through October 31, 2019
+
+P O Box 182050 Account Number: 000000794285656
+Houston, TX 77001
+
+CUSTOMER SERVICE INFORMATION
+
+Web site: Chase.com
+Service Center: 1-800-935-9935
+00118078 DRE 201 219 26919 NNNNNNNNNNN 1 000000000 17 0000 Deaf and Hard of Hearing: 1-800-242-7383
+DERREK ALEXANDER Para Espanol: 1-877-312-4273
+6817 FALL BREEZE CT International Calls: 1-713-262-1679
+ELK GROVE CA 95758
+CHECKING SUMMARY Chase Total Checking
+AMOUNT
+Beginning Balance
+Deposits and Additions
+ATM & Debit Card Withdrawl
+Ending Balance
+TRANSACTION DETAIL
+DATE DESCRIPTION AMOUNT BALANCE
+Beginning Balance $33,730.03
+10/05 Transfers Transfer to Amazon transaction WEB ID 2ES52014UU903703F -550.00 33,180.03
+10/06 Transfers Transfer to Amazon transaction WEB ID 2ES34086YU903703F -100.00 33,080.03
+10/06 Transfers Transfer to Amazon transaction WEB ID 5TS37776YUS098031 -1,088.20 31,991.83
+4008 ~—~—SsTransfers==—=—=—=*~<C*«é‘SntrtBankTrriaidebitWebid—itsts—‘“‘™éSOSC*;*;*;*;*‘~SNS«AN’C;C*C*;*«*«Y«S TD
+10/08 Transfers Suntrust Bank Trialdebit Web Id -1,000.00 29,773.73
+10/09 Transfers VENMO CASHOUTPPD 14,400.88 44,174.61
+10/10 Transfers Payment to Chase card ending in 2166 -2,020.80 42,153.81
+10/17 Transfers VENMO CASHOUTPPD 13,489.11 55,642.92
+10/27 Transfers Suntrust Bank Trialdebit Web Id -2,000.00 53,642.92
+10/30 Transfers Suntrust Bank Trialdebit Web Id -2,517.09 51,125.02
+Ending Balance 51,125.02
+
+A monthly Service Fee was not charged to your Chase Total Checking account. Here are the three ways you can avoid
+this fee during any statement period.
+
+« Have direct deposits totaling $500.00 or more.
+(Your total direct deposits this period were $2,936.90. Note: some deposits may be listed on your previous statement)
+
+e OR, keep a minimum daily balance in this checking account of $1,500.00 or more
+(Your minimum daily balance was $0.00)
+
+e OR, keep an average daily balance of qualifying linked deposits and investments of $5,000.00 or more
+(Your average daily balance of qualifying linked deposits and investments was $16.07)
+
+Page 1 of 1
+
+01180780101000000021
+
+§& BankStatements.net
+
+P.O BOX 6011 STATIONA Business Account Statement
+MONTREAL QC H3C 3B8
+RBC
+RBSDA30000_3990171 E D 03762 00582 July 3, 2018 to August 2, 2018
+MR JOHN DOE
+408 QUEEN ST W, Account number: 01234 567-890-1
+TORONTO, ON .
+M5V 2A7 How to reach us:
+
+Please contact your RBC Banking reprosentative or call
+1-800-Royal®2-0
+(1-800-769-2520)
+
+www.rbcroyalbank.com/business
+
+Account Summary for this Period
+RBC Business Essentials © Variable Pricing Account
+
+Royal Bank of Canada
+44 GORE ST E, PERTH, ON K7H 1H7
+
+Opening balance on July 3, 2018 $280,692.25
+Total deposits & credits (0) + 0.00
+Total cheques & debits (10) - 9,667.89
+Closing balance on August 2, 2018 = $271,024.36
+
+Account Activity Details
+
+Date Description Cheques & Debits ($) Deposits & Credits ($) Balance ($)
+
+Opening balance 280,692.25
+03 Jul Minimum monthly fee 6.00 280,686.25
+04 Jul Misc Payment PAY-FILE FEES 2.00 280,684.25
+09 Jul Insurance SUN LIFE REGULAR 46.35 280,637.90
+24 Jul Misc Payment RBC CREDIT CARD 86.74 280,551.16
+25 Jul Cheque - 762 3,264.56 277,286.60
+26 Jul COMMERCIAL INS FEDERATED INSUR 214.86
+
+Cheque - 761 5,504.38 271,567.36
+01 Aug Misc Payment PAY-FILE FEES 2.00 271,565.36
+
+Minimum monthly fee 6.00 271,559.36
+
+1of3
+
+FIRST BANK
+
+1234 Main Street, Capital City, OH 12345-0123
+1-800-555-1234
+
+USA Small Business, LLC Account Name: USA Small Business Checking
+Mr. Jack Smith Account Number: 000000012345
+
+345 Maple Street
+Capital City, OH 12345-0123
+123-555-5678
+
+Statement Period: 03/01/2021 to 04/01/2021
+
+ACCOUNT SUMMARY
+
+Balance on March 1: $27,584.38
+Total money in: $10,273.39
+Total money out: $10,510.07
+Balance on April 1: $27,347.70
+
+DATE DESCRIPTION WITHDRAWAL DEPOSIT BALANCE
+Previous balance 27,584.38
+
+03/02 Internet Bill 75.99 27,508.39
+
+03/05 Electric Bill 253.68 27,254.71
+
+03/06 Check No, 4598 456.84 27,711.55
+Payment from Lisa Williams
+
+03/10 Deposit from Credit Card Processor 5,891.26 33,602.81
+
+03/12 = Payroll Run 3,894.75 29,708.06
+
+03/16 Debit Transaction 243.46 29,464.60
+Main Office Wholesale
+
+03/21 Rent Bill 750.00 28,714.60
+
+03/21 Check No, 234 268.84 28,983.44
+
+Payment From Mark Moore
+
+03/26 Payroll Run 3,743.23 25,240.21
+
+03/28 Deposit 3,656.45 28,896.66
+
+03/29 Debit Transaction 1,548.96 27,347.70
+ABC Business Supplies
+
+Ending balance 27,347.70
+
+© Patriot Software, LLC Al Rights Reserved. PATRIOT
+Tite is Net Witended as tegel sdven
+
+Aicici Bank
+
+DETAILED STATEMENT
+Search
+Account Number 00360 1000453(INR) - SIDDHARTH VINAYAK JOSHI
+Transaction Date trom 17/04/2017 to 18/10/2017
+Transaction Period Last 1 Month
+Advanced Search
+Amount from NA to NA
+Cheque number from NA to NA
+Transaction remarks NA
+Transaction type Al
+
+Transactions List- SIDDHARTH VINAYAK JOSH! - 003501000453
+
+SNo. Value Date Transaction Dats Eheque Number [Transaction Remarks ithdrawal Amoun{ Deposit Amoun{ Balance (INR
+INR. (INR
+i 2aloarz017 | 2404/2017 | ia ‘95684920/NchgRs2 S0STRsO | Ee pC) | 3654609
+8
+2 Ovos/2017 0105/2017 F BTNEO00020931 74-LN INST MAY17 23223: oO. 1332309,
+3 O7S 207 08052017 KT/100030918881/DG~00350100045 700: 0 132230
+~38620034244345
+A 09082017 09052017 100 1207365750/PGMB- 3516: cx 9707.0:
+IHTTPS//SECURE_
+5 09/08/2017 0910572017 EF T-SBING 17129258673-Mr 0. 7000 10707 09
+IDDHARTH VINAYAK JOSHI
+6 18/08/2017 1505/2017 SHI S S/017476/CMS Ou 4000. 14707.
+id 13082017 __—|__—=«tS 1052017 OSH! S $/017479/CMS [ oq 3500. 16207.09
+8 8/05/2017 {5052017 SHI S $/017478/CMS 6. 2000 22207 0:
+9 isos20i7 [15052017 DOSHIS $/017475/EMS [ od 600. 26207.09,
+to |__1sos2017 [15052017 OSHS S/017477/0MS I og El 30507.09
+| isnseoi7T15m52017_ TF DOSHIS S/017474/CMS I og 2200. 34707.09,
+q2_ | 23082017 «dT 23052017 iT TIRFR FROM:SHIKHA CHOUHAN | od 5000.0] 39707.08
+13 29082017 | 29052017 PMSBY Ronewal Promum FY18 I 2g, od 3969509,
+14 OVOS 2017 O16 2017 BTNE000020031 74-LN INST JUNIT FAYE) cx T6472
+i 08/08/2017 | 081062017 KT 100033157 177/DG~00350100045 100 q 0 q erraad
+~ 4244341
+a Txoe20i7 i 73062017 E BMSChasApri7-Juni?+Stax2.26 I 172g og 7633484)
+ie [| _ispenoi [_—‘15me2017 TS VINAVAKIG448791)S. T od 724000.) 4033484)
+0 THOG2017 | 791062017 Se pela cc | aaa ay ba
+a yrne 18/437 55417 1856700
+20 Bee 2017 29062017 10350100045a:Int Pd:31-03-2017 to 0 296 36783
+8-06-2017
+27 o7207 | i72017_ TBTNE00002063174-LN INST JUL47_] 22223. od 43560.64)
+22 | oeov20i7 | oswraoi7 DOSHI S V/1620547T JS I od 20000.q 33560.64)
+Ss BIONAAT 2072017 INIBook My Sho/201707221160320 284.2 0 S276
+24 207207 25072017 100 1288766268/IMOPS PPSEVA_JI B00 0 30276:
+tL
+* PHOM2AT 27072017 AMICASH 0. 3000 33276 ii
+EPOSIT/PANCHPAKHADI, THANE
+26 OvOw2017 | 01082017 pees TA-LN INST AUGIT | eee of 1s
+27 08/08/2017 0808/2017 -AMICASH oF 500. TOE
+EPOSIT/PANCHPAKHADI, THANE
+28 0908207 09082017 1001269477 179/NohgRs2.60GS TRS 2 0 070041
+45,
+28 220207 22082017 EFT-SBING17204728014-Mr oF 30000; |
+IDDHARTH VINAYAK JOSHI
+
+
+SUNIL VERMA-30000 100003115 w Account Query
+
+Account Number AccountName From: To:
+30000100003115 SUNILVERMA 16/10/15 17/10/15
+
+Transactions (1-4 of 4)
+
+Sr. Cheque Debit
+No. Date Description(Remark) No. Amount
+1 FACS copmayem comt?-10-2015 13:23:4405WT 450.00
+SENOS — PGOR/ONEST COMMUNICATIONS L/16-10-2015
+2 rene ot 974.00
+3 AOS conmayten comt6-10-2015 19:12-205WT 1,148.00
+a «TAOS av casn >
+
+‘Select Format: + (save |
+
+BMO 2 Financial Group
+
+Account Name:
+Company Name:
+
+Employee ID:
+
+Statement Date (MM/DD/YYYY):
+
+Statement Summary:
+
+Report any items which do not agree with your records
+within 30 days of the statement date.
+
+Statement
+MR JOHN DOE — Card Number:
+408 Queen St W, Account Limit:
+Toronto, ON
+M5V 2A7
+08/11/2019
+Currency:
+
+Payments:
+Adjustments:
+Net Purchases:
+Cash Advance:
+Fees:
+
+Other Charges:
+
+New Account Balance:
+
+For your records only. No payment required.
+
+Transaction Summary:
+
+Trans Date
+
+07/16
+
+07/16
+
+07/16
+
+07/20
+
+07/27
+
+07/30
+
+08/03
+
+08/04
+
+08/06
+
+08/06
+
+08/07
+
+08/07
+
+Posting Date
+
+Trans ID
+
+07/17
+301000873
+07/17
+301000874
+07/17
+301000875
+07/22
+301776100
+07/29
+302892881
+07/30
+303042904
+08/05
+303978185
+08/05
+303978184
+08/07
+304255288
+08/07
+304255287
+08/07
+304255289
+08/08
+304453307
+
+Description
+
+FEDEX 775671220714 MEMPHIS TN
+
+ZIPRECRUITER, INC. 8557475493 CA
+
+USPS POSTAGE STAMPS.C 888-434-0055 CA
+
+BENCHMARK EDUCATION CO NEW ROCHELLE NY
+
+BATH AND BODY WORKS 50 BROOKFIELD WI
+
+AMZN MKTP US MAOPS94J0 AMZN.COM/BILL WA
+
+NATIONAL CRIME SEARCH 888-527-3282 AR
+
+ZIPRECRUITER, INC. 8557475493 CA
+
+AMAZON.COM MA71N28H1 AMZN.COM/BILL WA
+
+SQ SQ KC PHONE GUYS GOSQ.COM MO
+
+AMAZON.COM MAOTG7GS0 AMZN.COM/BILL WA
+
+AMZN MKTP US MA3QL5742 AMZN.COMIBILL WA
+
+& Bankstatements.net
+
+XXXX=XXXX-XXXX- 1234
+$ 30,000.00
+
+U.S. DOLLAR
+
+$ 0.00
+$ 0.00
+$ 5,946.75
+$ 0.00
+$ 0.00
+$0.00
+$ 5,946.75
+
+Pre-Tax Amount Total Tax Trans Amount
+Auth #
+$ 11.10 $0.00 $11.10
+02347Z
+$ 449.00 $0.00 $ 449.00
+00160Z
+$ 100.00 $0.00 $ 100.00
+03122Z
+$3,645.83 $204.17 (e) $ 3,850.00
+08461E
+$91.20 $465(e) $95.85
+03581E
+$ 149.80 $0.00 $ 149.80
+04401E
+$ 151.52 $ 8.48 (e) $ 160.00
+01996E
+$ 449.00 $0.00 $ 449.00
+09731E
+$ 82.61 $ 8.34 (e) $90.95
+05939E
+$ 408.66 $0.00 $ 408.66
+02564E
+$2947 $2.98(e) $32.45
+03767E
+$ 149.94 $0.00 $ 149.94
+05048E
+
+* ABC BAN K Statement Ending 09/21/2021 Page 2 of 2
+
+Look over all transactions
+
+ABC RELATIONSHIP CHEKING XXXXXXXX1284 (continued)
+
+Primary Chekin Paycheck
+Account Activity
+
+Post Date Debits Credits Balance
+09/10/2021 Signature POS Debit 09/08 GIANT FOOD I $78.22 6,806.09
+09/10/2021 L A FITNESS $15.38 6,790.71
+09/11/2021 FT&T MOBILITY ONLINE PMT $100.30 6,690.41
+09/14/2021 DEPOSIT $500.48 7,190.89
+09/14/2021 DIRECT DEP 9,767.23
+09/14/2021 Signature POS Debit 09/13 MD GIANT FOOD $15.40 9,751 83
+09/17/2021 ATM Withdrawal 09/15 WV INWOOD $350.00 9,401.83
+09/17/2021 Signature POS Debit 09/16 MD GIANT FOOD $12.48 9,389.35
+09/17/2021 Signature POS Debit 09/15 MD GIANT FOOD $35.80 9,353.55
+09/18/2021 THE HOME DEPOT ONLINE PMT POS $8.35 9,345.20
+09/18/2021 OORETIRE 0503R3030 $528.12 8,817.08
+09/20/2021 3?3LA@71557195 $489.57 8,327.51
+09/21/2021 Ending Balance 8,327.51
+Daily Balances
+
+Date Amount Date Amount Date Amount
+09/04/2021 19,120.43 09/10/2021 6,790.71 09/18/2021 8,817.08
+09/05/2021 7,017.64 09/11/2021 6,690.41 09/20/2021 8,327.51
+09/06/2021 6,562.32 09/14/2021 9,751,83
+
+09/07/2021 7,039.31 09/17/2021 9,353.55
+
+Overdraft and Returned Item Fees Watch for unexpected fees
+
+Total Overdraft Fees
+
+Total for this period
+
+7 Total year-to-date
+
+Total Returned Tem Fees
+
+
+FINANCE BANK
+0987 Second Street, Austin, TX 12345-6789
+1-000-222-3456
+
+Photography Business, LLC Account Name: Photography Business, LLC
+Mr. Bean Lasso Account Number: 0000000098765
+
+123 Abraham Street Account Type: Checking
+
+Austin City, Tx 12345-6789 Statement Period: 06/01/2022 to 06/30/2022
+
+111-222-3333
+
+ACCOUNT SUMMARY
+Balance on June 1: $34,572.23
+Total money in: $12,193.75
+Total money out: $ 9,254.52
+Balance on June 30: $37,511.46
+DATE DESCRIPTION WITHDRAWAL DEPOSIT BALANCE
+Previous Balance 34,572.23
+06/01 Rent Bill 670.00 33,902.23
+
+Check No. 3456
+06/03 Payment from Nala Spencer 740.00 34,642.23
+
+06/08 Electric Bill 347.85 34,294.38
+
+06/13 Phone Bill 75.45 34,218.93
+
+06/15 Deposit 7,245.00 41,463.93
+Debit Transaction
+
+Oars Photography Tools Warehouse See acer
+
+06/24 Deposit 3,255.00 44,378.97
+
+06/25 Internet Bill 88.88 44,290.09
+Check No. 0231
+
+06/26 Payment from Kyubi Tayler 239.00) $51225.09
+
+06/29 Payroll Run 6,493.65 38,731.44
+Debit Transaction
+
+BBG Picture Perfect Equipments 128498 a ARSAS
+
+06/30 Interest Earned 18.75 37,515.21
+
+06/30 Withholding Tax 3.75 37,511.46
+
+Ending Balance 37,511.46
+
+
+Ee 231 Valley Farms Street
+g Santa Monica, CA
+eS bnibank @domain.com
+
+CUSTOMER NAME
+John Smith
+
+ADDRESS
+2450 Courage St, STE 108
+Brownsville, TX 78521
+
+OPENING BALANCE TOTAL CREDIT | TOTAL DEBIT
+
+10,895.92 | 22,032.72
+
+1,249.95
+
+Reference Transaction Description
+
+mm/dd/yyyy 0302432 Account Interest
+mm/dd/yyyy 0302433 Branch Deposit
+mm/dd/yyyy 0302434 Branch Deposit
+mm/dd/yyyy 0302435 Branch Deposit
+
+mmi/dd/yyyy 0302436 Branch Cheque - MC Kean & Park
+
+mmidd/yyyy 0302437 Cost of Bank Cheque
+mm/dd/yyyy 0302438 Branch Deposit
+
+mm/dd/yyyy 0302439 FED Bank Account Debits Tax
+
+mm/ddlyyyy 0302440 VIC FID Charge
+
+CREATED BY
+
+TemplateLAB
+
+Statement of Account
+
+Personal Current Account
+
+| BRANCH NAME
+
+<Branch Name>
+
+| CARD NUMBER
+2547-96574-2541-4004
+| ACCOUNT NUMBER
+1234567890
+
+| PERIOD
+
+mm/dd/yyyy
+
+Balance
+10,875.97
+20,000.00 30,875.97
+30,275.97
+29,645.97
+1,430.00 31,075.97
+100.00 31,175.97
+500.00 31,675.97
+1.05 31,677.02
+1.67 31,678.69
+
+22,032.72 1,249.95 31,678.69
+
+© templatelab.com
+
+Bankof America
+
+Sam Bobley
+
+101 Greenwich St
+Fi23
+
+New York, NY 10006
+
+Your combined statement
+for January 17, 2020 to February 13, 2020
+
+Your deposit accounts
+
+Adv Plus Banking
+
+Preferred Rewards
+
+Customer service information
+
+4 1.888.888.RWDS (1.888.888.7937)
+TODATTY us y: 1.8002
+En Espafol: 1.800.688 6086
+bankofamerica.com
+Bank of America. NA
+
+P.O. Box 25118
+Tampa, FL 33622-5118
+
+Ending balance Details on
+
+$10,530.87 Page 3
+
+Regular Savings
+
+Total balance
+
+955496 Page
+$11,085.83
+
+
+Demo Bank, N.A.
+P O Box 526473
+
+Dallas, TX 52362 - 52631
+
+Vall Macccll Me vlbldbdllabaddbadall
+00053642 DRS 025 32500228 NNNNNNNNNNN. 1 000000000 75 0000
+
+NEW GOOD RESTAURANT LLC
+275 HIGHLAND AVE
+
+AUGUSTA GA 35251-48251
+
+December 01, 2016 throught December 30, 2016
+Primary Account: 000002415483497
+
+CUSTOMER SERVICE INFORMATION
+
+Web site: demobank.com
+Service Center: 1-522-362-1247
+Deaf and Hard of Hearing: 1-534-235-6437
+Para Espanol: 1-463-232-7733
+International Calls: 1-348-112-4567
+
+CONSOLIDATED BALANCE SUMMARY
+
+ASSETS
+
+Checking & Savings ACCOUNT BEGINNING BALANCE — ENDING BALANCE
+
+THIS PERIOD THIS PERIOD
+Demo BusinessSelect Checking 000002415483497 $70,058.28 $9,857.31
+Demo Business Select High Yield Savings 000002547390862 893.30 1,893.33
+Total $70,951.58 $11,750.64
+TOTAL ASSETS $70,951.58 $11,750.64
+
+All Summary Balances shown are as of December 30, 2016 unless otherwise stated. For details of your retirement
+accounts, credit accounts or securities accounts, you will receive separate statements. Balance summary information for
+annuities is provided by the issuing insurance companies and believed to be reliable without guarantee of its completeness
+
+or accuracy.
+
+CHASE BUSINESSSELECT CHECKING
+
+NEW GOOD RESTAURANT LLC
+
+[CHECKING SUMMARY |
+
+Account Number: 000002415483497
+
+INSTANCES AMOUNT
+Beginning Balance $70,058.28
+Deposits and Additions 36 64,450.14
+Checks Paid 21 -10,369.47
+ATM & Debit Card Withdrawals 112 -66,205.00
+Electronic Withdrawals 67 -39,170.39
+Other Withdrawals 3 -8,897.85
+Fees 1 -8.40
+Ending Balance 240 $9,857.31
+
+Page 1 of 10
+
+HOWARD
+
+Statement Ending 09/21/2018
+BANK Page 1 of 4
+
+RETURN SERVICE REQUESTED Managing Your Accounts
+
+Primary Branch Canton
+
+John Doe Phone Number 443-573-4800
+123 Main Street
+Baltimore. MD 21224 Online Ganking = HowardBank.com
+zeeoione 4-877-527-2703
+Banking
+
+3301 Boston Str
+
+Baltimore, MD 212,
+
+@G@r!
+
+Mailing Address
+
+Summary of Accounts
+
+Account Type Account Number Ending Balance
+HOWARD RELATIONSHIP CHECKING XXXXXXXX4101 $5,684.22
+
+HOWARD RELATIONSHIP CHECKING-XXXXXXXX4101
+
+Primary Checking
+Account Summary
+Date Description Amount
+09/01/2018 Beginning Balance $18,805.47
+3 Credit(s) This Period $4,293.20
+20 Debit(s) This Period $17,414.45
+09/21/2018 Ending Balance $5,684.22
+Account Activity
+Post Date Description Debits Credits Balance
+09/01/2018 Beginning Balance $18,805.47
+09/04/2018 Signature POS Debit 09/02 MD BALTIMORE GIANT FOOD $57.48 $18,747.99
+INC SEQ# 071582
+09/04/2018 Nationstar dba Mr Cooper XXXXXX6179 $1,989.60 $16,758.39
+09/05/2018 | HMS WARRANTY 8002473680 5829389 $42.99 $16,715.40
+09/05/2018 SAMS CLUB MC ONLINE PMT CKF426104254POS $4,671.42 $12,043.98
+09/05/2018 DISCOVER BANK ETRANSFER $8,212.00 $3,831.98
+09/06/2018 BLTMORE GAS ELEC ONLINE PMT $160.75 $3,671.23
+09/06/2018 AMAZON $170.00 $3,501.23
+09/06/2018 | DEVONSHIRE II CO CONS CP BC5198 $195.00 $3,306.23
+09/07/2018 DEPOSIT $653.25 $3,959.48
+09/07/2018 TARGET ONLINE PMT $88.59 $3,870.89
+09/10/2018 ATM Withdrawal 09/07 MD BALTIMORE 10101 $180.00 $3,690.89
+PHILDELPHIA RD SEQ# 008838
+09/10/2018 Signature POS Debit 09/08 MD BALTIMORE GIANT FOOD $70.11 $3,620.78
+|
+09/10/2018 LAFITNESS $12.98 $3,607.80
+09/11/2018 AT&T MOBILITY ONLINE PMT $116.22 $3,491.58
+09/14/2018 DEPOSIT $606.62 $4,098.20
+09/14/2018 DIRECT DEP $3,033.33 $7,131.53
+09/14/2018 Signature POS Debit 09/13 MD BALTIMORE GIANT $19.86 $7,111.67
+09/17/2018 ATM Withdrawal 09/15 WV INWOOD $400.00 $6,711.67
+MARTINSBURG-INWOOD
+09/17/2018 Signature POS Debit 09/16 MD BALTIMORE GIANT $14.06 $6,697.61
+
+Member
+
+TROUAL MOUSE
+LENDER
+
+Example Bank Statement
+
+Business Cheque Statement
+
+Customer Number
+
+Account enquiries @ 132 032
+Call Westpac Telephone Banking
+
+Details of your account For the period from
+Date Description of transaction
+1997 STATEMENT OPENING BALANCE
+l-Aug DEPOSIT CAPALABA OLD
+
+STATE GOVT TAX ON
+WITHDRAWALS
+
+l-Aug
+
+l-Aug WITHDRAWAL/CHEQUE 301095
+l-Aug WITHDRAWAL/CHEQUE 301096
+5-Aug WITHDRAWAL/CHEQUE 301086
+7-Aug WITHDRAWAL/CHEQUE 301099
+8-Aug WITHDRAWAL/CHEQUE 301100
+10-Aug WITHDRAWAL/CHEQUE 301097
+12-Aug WITHDRAWAL/CHEQUE 301098
+13-Aug DEPOSIT CAPALABA QLD
+15-Aug WITHDRAWAL/CHEQUE 300903
+18-Aug WITHDRAWAL/CHEQUE 300902
+18-Aug WITHDRAWAL/CHEQUE 301050
+18-Aug WITHDRAWAL/CHEQUE 300906
+20-Aug DEPOSIT CAPALABA QLD
+21-Aug DEPOSIT CAPALABA QLD
+22-Aug WITHDRAWAL/CHEQUE 300905
+24-Aug DEPOSIT CAPALABA QLD
+25-Aug WITHDRAWAL/CHEQUE 300910
+29-Aug WITHDRAWAL/CHEQUE 300911
+
+Account Summary
+
+Opening Balance
+Total credits
+Total debits
+
+Closing Balance
+
+$6,713.87
++ $1,510.28
+- $5,070.38
+
++ $3,153.77
+
+31 Jul 1997 to 31 Aug 1997
+
+Debit
+
+38.90
+
+45.00
+883.30
+36.00
+855.10
+566.60
+141.80
+
+253.80
+
+362.50
+90.40
+10.00
+
+883.30
+
+266.98
+
+38.30
+598.40
+
+Credit
+
+235.15
+
+656.20
+
+9.68
+
+369.25
+
+240.00
+
+Balance
+6,713.87
+
+6,949.02
+
+6,910, 12
+
+6,865.12
+5,98 1.82
+5,945.82
+5,090.72
+4,524.12
+4,382.32
+4,128.52
+4,784.72
+4,422.22
+4,331.82
+4,321.82
+3,438.52
+3,448.20
+3,817.45
+3,550.47
+3,790.47
+3,752.17
+3,153.77
+
+Royal Bank of Canada
+P.O. Box 4047 Terminal A
+Toronto, ON MSW 1L5
+
+RBCPDA0001-123456789-01-000001-1-0001 19715
+
+SUSAN SAMPLE
+
+1234 ANY STREET, SUITE 5678
+ADDRESS LINE #2
+
+CITY, PROVINCE A1B 2C3
+
+Summary of your account for this period
+
+Signature Plus 02782-5094431
+
+Royal Bank of Canada
+5879 ROULE JEAN-BAPTISTE, MONTREAL, PQ H3C 3B8
+
+Your opening balance on March 12, 2004 $4,247.14
+Total deposits into your account + 145.15
+Total withdrawals from your account - 727.50
+Your closing balance on April 12, 2004 = $3,664.79
+
+Details of your account activity
+
+Your personal bank
+chequing account
+statement
+
+From March 12, 2004 to April 12, 2004
+
+Your account number: 02782-5094431
+
+1-800 ROYALe 1-1
+(1-800-769-2511)
+www.rbcroyalbank.com/deposits
+
+How to reach us:
+
+RBC is now paperless!
+
+Dear Susan, we're pleased to introduce you to
+digital imaging. Now you can retrieve images of
+cheques in seconds and view them online. It’s
+as easy as a Click of a mouse.
+
+Try our new digital imaging service today. If you're
+not already an RBC Royal Bank Online Banking
+client, visit www.rbcroyalbank.com/online or
+
+simply call 1-800-ROYAL® 5-5 (1-800-769-2555).
+
+Date Description Withdrawals ($) Deposits ($) Balance ($)
+
+Opening balance 4,247.14
+15Mar Transfer 85.00
+
+Interest paid 15
+
+ATM withdrawal 100.00
+
+Interac purchase -1361 - Nasr Foods Inc. 47.82 4,184.47
+17 Mar Overdraft interest 0.93 4,183.54
+18Mar Cheque #30 40.00
+
+Cheque #31 148.11 3,995.43
+19Mar ATM withdrawal 60.00 3,935.43
+22Mar ATM withdrawal 20.00
+
+Interac purchase - 1361 - The Bay 125.13
+
+Interac purchase - 1361 - Highland Farms 6.94 3,783.36
+
+Bank name
+
+COMPANY NAME AND Address 1
+
+Address 2
+LOGO Address 3
+SWIFT :
+E-mail :
+Website :
+CUSTOMER NAME
+ADDRESS 1
+ADDRESS 2
+ADDRESS 3
+ADDRESS 4
+ADDRESS 5
+Ref: INB 0000-30001- Customer Id : 01111113
+000000 Account No : 4304567890987
+Account Type : CURRENT ACCOUNT
+Currency : BDT
+Issue Date : January 12, 2019
+
+STATEMENT OF ACCOUNT FOR THE PERIOD OF 29-Dec-2018 TO 12-Jan-2019
+
+DATE PARTICULARS CHQ .NO WITHDRAW DEPOSIT
+Balance Forward 0.00 0.00
+
+01-Jan-2019 PpRCR/easy. 100.00 0.00
+D/4301201810853001
+
+01-Jan-2019 PRCR/easy. 100.00 0.00 219.08
+D/4301201810853001
+
+01-Jan-2019 PRCR/easy. 100.00 0.00 119.08
+D/4301201810853001
+
+01-Jan-2019 PRCR/easy. 100.00 0.00 19.08
+D/4301201810853001
+
+02-Jan-2019 EFT/IC/BANK ASIA/FRD BEFTN 0.00 10,103.66 10,122.74
+ACCOUN/FR
+
+02-Jan-2019 PRCR/easy. 100.00 0.00 10,022.74
+D/4301201810853001
+
+02-Jan-2019 PRCR/easy. 100.00 0.00 9,922.74
+D/4301201810853001
+
+03-Jan-2019 CWDR/MOKKA-MODINA TOWER [sa 9,500.00 0.00 422.74
+G/4301201810853001
+
+07-Jan-2019 EFT/IC/BANK ASIA/FRD BEFTN 0.00 6,490.89 6,913.63
+ACCOUN/ER
+
+07-Jan-2019 CWDR/MOKKA-MODINA TOWER cT 6,000.00 0.00 913.63
+G/4301201810853001
+
+10-Jan-2019 CWDR/MOKKA-MODINA TOWER cr 500.00 0.00 413.63
+G/4301201810853001
+
+16,600.00 16,594.55 413.63
+
+Page 1 of 2
+
+CREATED BY
+
+TemplateLAB
+
+Your Account Statement BS Beteacen
+Issue Date: mm/dd/yyyy
+Period: mm/dd/yyyy to mm/dd/yyyy
+111-234-567-890 <Branch Name>
+Bit Manufacturing Ltd 231 Valley Farms Street
+2450 Courage St, STE 108 Santa Monica, CA
+Brownsville, TX 78521 bickslowbank@domain.com
+Date Payment Type Detail Paid In Paid Out Balance
+Balance Brought Forward 8,313.30
+mm/dd/yyyy Fast Payment Amazon 132.30 8,181.00
+mm/dd/yyyy BACS eBAY Trading Co. 515.22 7,665.78
+mm/dd/yyyy Fast Payment Morrisons Petrol 80.00 7,585.78
+mm/dd/yyyy BACS Business Loan 20,000.00 27,585.78
+mm/dd/yyyy BACS Jumes White Media 2,416.85 25,168.93
+mm/dd/yyyy Fast Payment ATM High Street 100.00 25,068.93
+mm/dd/yyyy BACS Accorn Advertising Studios 150.00 24,918.93
+mm/dd/yyyy Fast Payment Marriott Hotels 177.00 24,741.93
+mm/dd/yyyy Fast Payment Abelio Scotrail Ltd 2222 24,619.71
+mm/dd/yyyy Fast Payment Cheque 000234 1,200.00 23,419.71
+mm/dd/yyyy Int. Bank Interest Paid 9.33 23,429.04
+mm/dd/yyyy DD OVO Energy 270.00 23,159.04
+mm/dd/yyyy BACS Toyota Online 10,525.40 12,633.64
+mm/dd/yyyy BACS HMRC 1,000.00 11,633.64
+mm/dd/yyyy DD OVLA 280.00 11,353.64
+mm/dd/yyyy EBP Michael Kor Salary 1,554.00 9,799.64
+mm/dd/yyyy DD BOS Mastercard 4,000.00 5,799.64
+Note:
+
+© templatelab.com
+
+& Indian Overseas Bank BAN K STATEM ENT
+
+ACCOUNT HOLDER DETAILS
+
+Account Holder Name
+Registered Mobile Number
+Residential Address
+
+ACCOUNT DETAILS
+
+Account Type
+Account Balance
+FD Link
+
+Total Balance
+Nomination
+
+ACCOUNT STATEMENT
+
+Txn Date | Value Date | Description | Ref No/Cheque No i Credit | Balance
+02 Jan 2019 | 02 Jan 2019 XXXXXXX XXXXKX
+
+10 Jan 2019} 10Jan 2019 XXXXXXX XXXXX
+15 Jan 2019} 15Jan2019 XXXXXXX XXXXX
+20 Jan 2019 | 20Jan 2019 XXXXXXXK XXXXX
+25 Jan 2019 | 25 Jan 2019 XXXXXXX XXXXXXXK XXXXX
+
+REWARD POINTS SUMMARY
+
+Savings Account number
+Card Number
+
+Earnings
+
+Total Balance
+
+ACCOUNT RELATED OTHER INFO
+
+Account Type
+Account Number
+MICR
+
+IFSC
+
+paisabazaar &
+
+
+NI 09160 Bank Statement Entry
+
+ORACLE up Edwards World
+
+28@ ? Dt STS
+
+Field Sensitive Help
+Display Error Message
+Display Functions
+
+Exit Program
+
+Details
+
+Recalculate Totals
+Additional Selections
+Toggle Incomplete Line
+Go To Last Detail Reco
+Customer Ledger Inquin,
+Supplier Payment Inquir
+Position Cursor to Actior
+Previous Statement
+Next Staternent
+Prompt All Detail Recon
+Clear Screen
+
+09168
+
+Action Code
+
+Bank Account
+Statement Number
+Lines entered
+Beginning Balance.
+Ending Balance
+Remaining Amount
+Skip to Seq Num
+
+USD
+Amount
+
+El, re),
+
+-—
+
+URL Document Email
+
+Bank Statement Entry
+
+1.1116.BEAR Statement Date
+
+Default G/L Date | —
+Incomplete Transactions a
+4,938.67
+161,977.49
+
+150,000.60 Total Deposit
+Total Withdrawal
+Batch Number 6143241
+
+Entry Mode fz
+
+7,038.82
+
+Value G/L
+Date Date
+
+.Pmt/Rept.
+Number Ty
+1232100
+
+Foreign
+Amount
+
+652531
+
+1232081
+
+372521
+
+1=Detail 9=Delete Fo=Incomplete F9=Last Record F21=Select ALL F24=More
+
+
+y Ro BANK
+
+STATEMENT BETWEEN 01/04/2019 AND 30/04/2019 FOR A/C: 916020087855304
+
+(589 )
+1 CA- LAR!
+MS. INNOVACION AIR CONDITIONING Sees Cope attr aa
+KH. NO 27/3 8- 93 UDAY VIHAR CUSTOMER ID : 885841530
+NILOTHI EXTN., WEST DELHI DELHI CURRENCY CODE INR
+POOJA DAIRY EN AMOUNT :0,00
+ein + DELHI NOMINATION DETAILS — : NOMINATION REGISTERED
+PIN: 110041
+
+OS ee aa
+
+| _ $5000.00}
+
+Re SS ne) VC Vc
+Pisevenie | ranuan | Consolidated Charges foxes. 00 orf sas TL NAGAR
+a aTSNTOST TAX PAVMENTIOST | | aaa | | ——res61] — Tak Raa —
+nn VL Po [ tres [Tianna
+[eeaenre | eRGCzOTE REPT MIAN To07SoOeBenone Ya | se nT]
+INEFTIMBIAXMEI917907@0061Gurmest | | "0000.00 Ox __199373.91[ _ BHAWANIPATN __|
+[asevztre|-soncaoie Mouser surucer snanranioo | [oon [oe 13037.91 | TiLAK NAGAR
+
+TRANSACTION TOTAL DRICR:
+
+CLOSING BALANCE :
+
+Page 1 of 2
+
+Fags | oft
+Prcncs Banik
+
+Th Ell JE Te
+
+‘oe Deals Bh
+(ea BOA HLA
++L PRCT OW mr aT
+Te LIMES oC, LRA Ts
+
+AHP A =
+
+emm ce Hmmmms Fk Ba edmetn ny esoaeeRe e
+
+Sea oe! eee as oe
+
+Led rc Aa voted i,
+
+SU Mca ral: Se eek ca e-skills Cd te Ts cae
+
+a
+es le ee eel
+
+Le aadeeetintal $15 — a LP eS es ee
+ees wom pe le be ee ee Me We Be
+
+231 Valley Farms Street
+
+Santa Monica, CA 90403 STATEMENT OF ACCOUNT
+
+example@email.com
+
+Account Number: 111-234-567-890
+
+Statement Date: MM/DD/YYYY Page 1 of 1
+Period Covered: MiMDDIVYYY ©
+John Smith Opening Balance: 175,800.00
+2450 Courage St, STE 108 Total Credit Amount: 510,000.00
+Brownsville, TX 78521 Total Debit Amount: 94,000.00
+Closing Balance: 591,800.00
+<Branch Name> Account Type: Current Account
+Number of Transactions: 8
+Transactions
+Date Description Credit Debit Balance
+MM/DD/YYYY —§ Payment - Credit Card 5,400.00 170,400.00
+MM/DD/YYYY — Payment - Insurance 3,000.00 167,400.00
+MM/DD/YYYY — Account Transfer In 500,000.00 667,400.00
+MM/DD/YYYY Cheque Deposit 10,000.00 677,400.00
+MM/DD/YYYY — Payment - Electricity 1,500.00 675,900,00
+MM/DD/YYYY = Payment - Water Utility 600.00 675,300.00
+MM/DD/YYYY — Payment - Car Loan 3,500.00 671,800.00
+MM/DD/YYYY — Account Transfer Out 80,000.00 591,800.00
+
+-- End of Transactions ---
+
+Jan 7, 2022 Page 2 of 5
+
+Overdraft Protection
+This account is not currently covered by Overdraft Protection. If you would like more information regarding Overdraft Protection and eligibility requirements
+please call the number listed on your statement or visit your Bank Plus branch.
+
+US
+
+{t's more than a name. It’s a promise?
+
+Transaction history
+
+Dates
+01/12
+01/12
+01/12
+02/12
+02/12
+
+03/12
+04/12
+04/12
+05/12
+
+05/12
+06/12
+06/12
+07/12
+08/12
+08/12
+09/12
+10/12
+11/12
+11/12
+13/12
+14/12
+15/12
+
+15/12
+16/12
+16/12
+17/12
+17/12
+08/12
+
+19/12
+19/12
+
+20/12
+20/12
+
+21/12
+21/12
+
+21/12
+
+22/12
+
+22/12
+
+Reference Number
+
+054368486BKLGJ1J3
+0543684832X63KP74
+051404884LYROY8N1
+054368486BLKGJ1J3
+
+554838286BLH012SM
+054368487 EHTSK3WM
+5543286875SP18VSL
+5543286885SRSSXJ4
+
+0543684888PKLVLXS
+5526352892L ROENSR
+55417348A4E5RBXMW
+55432868B5SMGSQ09
+05436848A8PKT1TRO
+05486808QB019G7P5
+82305098B00023ZYG
+02305378BOOFVNT77
+55419378QKQE2RREW
+55419378QKQE2RRF4
+55310208B5SZYHKDE
+05436848D009FHZ74
+05436848D8PKSRBHK
+
+05436848D8PKSBRHK
+55263528DLAJONJAX
+55263528DRBGHED1E
+55263528DRBGEHD1E
+02305378BOOFNVT77
+85586688H36HHRVS5
+
+5542 1358HVAMES074
+85486148L WGPDJJXO
+
+85486148LWGPJDJXO
+55263528DLAJOJNAX
+
+55432868K5SZ4AF KW
+52707158KO9FM9EP4
+
+82711168KO002WETQ
+82711168K0002W2MB
+
+55453708L173NATBD
+
+Description Credits
+
+ACCELERATED SERVICESLLCDD = 2,307.69
+WENDYS #21300 RIDGELAND MS
+RAMEY'S #8 BRANDON MS
+
+WM SUPERCENTER #2720
+MADISON MS
+
+WAL-MART #2720 MADISON MS
+WENDYS #22800 MADISON MS
+SHELL 0357306 JACKSON MS
+PUBLIC STORAGE 08052
+800-567-0759 GA
+
+SHELL #5388 BRANDON MS
+POPEYES 12013 COTTONDALE AL
+C SPIRE MADISON MADISON MS.
+CHEVRON 0205563 MADISON MS 2.66
+GOLDEN CORRAL 0682 FLOWCOD MS
+SHELL 99182289 FLOWOOD MS
+
+NAV TECH 855-226-8388 DRAPER UT
+AUTOZONE #2304 CANTON MS
+VERIZON WRLS P1688-01FLOWOOD MS
+VERIZON WRLS P1688-01 FLOWOOD MS
+WAFFLE HOUSE 1573 BRANDON MS
+DOLLARTREE JACKSON MS
+
+B&B THEATRE RIDGELAND
+
+RIDGELAND MS
+
+ACCELERATED SERVICESLLCDD 2,307.69
+RAISING CANE'S #30 RIDGELAND MS
+
+FAMILY DOLLAR #3506 CANTON MS.
+
+POS RECURRING DEBIT ATMOS UTILITIES
+EXPERIAN CREDIT REPORT
+
+CITI ONLINE PAYMENT WEST
+DES MOIN
+
+MCW867-I-55 JACKSON MS
+MADISON FINE WINE AND
+CANTON MS
+
+POS RECURRING DEBIT AT&T
+POS RECURRING TMX?’ TERMINIX
+INTL 18008376464
+
+SHELL # 23421 BRANDON MS
+THE HOME DEPOT #2902
+JACKSON MS
+
+SITEGROUND HOSTING
+ALEXANDRIA VA
+
+SITEGROUND HOSTING
+ALEXANDRIA VA
+
+ADVANCE AUTO PARTS #53 8.54
+RIDGELAND MS
+
+73.83
+
+30.21
+
+50.01
+
+Charges
+
+7.87
+126.13
+
+53.37
+4.28
+55.00
+250.20
+
+40.00
+23.42
+156.00
+
+54.98
+45.55
+39.99
+14.97
+75.00
+88.25
+19.80
+
+65.85
+90.10
+17.12
+210.32
+24.99
+1,000.00
+
+70.00
+68.46
+
+403.35
+69.55
+29.16
+29.99
+
+17.99
+
+Balance
+61,739.97
+64,047.66
+64,039.79
+63,913.66
+63,987.49
+
+63,934.12
+63,929.84
+63,874.84
+63,624.64
+
+63,584.64
+63,561.22
+63,405.22
+63,407.88
+63,352.90
+63,307.35
+63,267.36
+63,252.39
+63,177.39
+63,089.14
+63,069.34
+63,099.55
+63,033.70
+
+65,341.39
+65,251.29
+65,234.17
+65,023.85
+64,998.86
+63,998.86
+
+63,928.86
+63,860.40
+
+63,457.05
+63,387.50
+
+63,437.51
+63,408.35
+
+63,378.36
+63,360.37
+
+63,368.91
+
+Customer Name: & Account Number: 20 14
+Cute Particatars Debit / Crede {2} Total Balares (2)
+29-Now-2017 BY CASH-2059-VASTRAL 2000.00 2000.00
+02-Jan-2018 CWDR//40905/BPRH1658 100.00 1900.00
+10-Feb-2018 Int:17-05-2017/31-01-2018 12.00 1912.00
+16-Mar-2018 StUBP-60096696/ 700.00 1212.00
+31-Mar-2018 SMSChargesQturocT17-DEC17+ 17.70 1194.30
+GST@18%
+03-May-2018 IMPS/RRN: 812318964660/MO BUAGO 500.00 1694.30
+O7-Maw-201R ‘\ Intl 09-901 R/AN-NA-PMIA 1200 17N7 2
+
+From (August 01, 2018) To (January 15, 2019)
+
+1 Saturday, August 04, SMSChargesQtrJAN18-MAR18+GS INR 17.70 1,569.60
+2018 4:10 AM
+
+2 7 ursday, August 09, Int:01-05-2018/31-07-2018 INR 14.00 1,583.60
+2018 5:31 AM
+
+3 ureday, Noverbbe Int:31-10-2018/01-08-2018 INR 14.00 1,597.60
+
+08, 2018 11:14AM
+
+
+(bank.
+
+P.O. Box 6475S
+Saint Paul, Minnesota 55164
+
+03420 TRG 7% 49185B5
+
+Urbardorbellosreed Lactebeardbachsbeall eat erectotstleed dear!
+
+J & R BP ING
+1026 164TH ST SE
+MILL CREEK WA 98012-1236
+
+Business
+Statement
+Account Number:
+1 535 0195 5634
+Statement Puriod:
+Apr. 1, 1999
+Through
+
+Apr. 30, 1999
+
+Page 1 of 7
+
+lor information om your account call (651) 244-7770 (Minneapolis/St, Paul) or 1-800.673-3555.
+
+Premium Business Checking
+
+Account Summary
+
+Previous Balance
+
+Customer Deposits
+
+Other Deposits
+
+Other Withdrawals and Fees
+Checks Paid
+
+New Balance on Apr. 30
+
+Customer Deposits
+
+=o
+
+WBOSeSaINMMAHnwwt
+
+Amount Date
+546.68 Apr.
+830.39 Apr.
+
+1,611.46 Apr.
+
+1/831.56 ‘Apr.
+
+1,229.09 Apr.
+
+1,727.37 ‘Apr.
+
+2,466.67 Apr.
+
+9,647.68 ‘Apr.
+
+2,243.55 Apr.
+
+2.76.20 Apr.
+988.36 Apr.
+
+4,021.02 ‘Apr
+748.72 Apr.
+
+Piece Apr.
+705.85 Apr.
+
+Total Customer Deposits
+
+Other Deposits
+
+Date
+Apr.
+
+Apr.
+
+Apr.
+
+Apr.
+
+Apr.
+
+a
+
+iy
+
+to
+
+Description
+
+ee
+
+ay
+
+Number of Items
+
+AL
+54
+4)
+71
+
+Amount
+
+YOUR ELECTRONIC DEPOSIT DEPOSIT 990401
+
+PAYPOINT EPS 1918301493 FAC #51639
+
+PAR#19990913248398-N
+
+YOUR ELECTRONIC DEPOSIT TOSCO NW 2 990401
+
+TOSCO NW 2 PAY 6741149540 30698864
+
+PAR#19990903035184 N
+
+YOUR ELECTRONIC DEPOSIT DEPOSIT 990402
+
+PAYPOINT EPS 1918301493 PAC #51639
+
+PAR#19990923948376 N
+
+YOUR ELECTRONIC DEPOSIT TOSCO NW 2 990402
+
+TOSCO NW 2 PAY 6741149540 30698864
+
+PAR#29990913841711 N
+
+CREDIT LINE ADVANCE FROM 30400102990810998
+
+te tte
+
+a
+
+++
+
+Amount
+
+10,296.41
+79,938.43
+105,431.43
+148 592.64
+38,023.35
+
+9,050.28
+
+Amount
+885.57
+720.38
+1,118.12
+1,207.05
+1,397.66
+2,113.21
+2,267.74
+2,471.92
+3,160.63
+
+946.62
+2,276.90
+1,618.98
+1,108.10
+2,303.60
+
+79,938.43
+
+Amount
+
+83.60
+
+2,850.53
+
+223.26
+
+2,964.18
+3,425.00
+
